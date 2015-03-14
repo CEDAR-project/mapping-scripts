@@ -2,12 +2,12 @@ Rietveld.,10828
 t Zandt,10956
 Oirschot.,10225
 Heusden.,10916
-Hoogeloon.,11194
+Hoogeloon c.a.,11415
 Soest.,11021
 Vlaardinger Ambacht,10790
 Genemuiden (Vervolg),10746
 Bilt (De),10686
-Groesbeek.,10616
+Diemen.,11039
 Heukelom,11308
 Ste. Geertruid.,10288
 Lindt (Groote).,11305
@@ -15,17 +15,17 @@ Pannerden.,10518
 Herwen en Aerdt.,10819
 Krimpen a.d. IJssel (Geene kom),10859
 Aardenburg.,11020
-Schellinkhout.,10772
+Kethel en Spaland.,10551
 Heeze.,10462
+Grubbenvorst.,10176
 Hoenkoop (Geene kom),10611
 Bergschenhoek.,10445
 Bathmen.,11030
-Hoogeloon c.a.,11415
+Hoogeloon.,11194
 Overijssel.,10952
 Kollumerland c.a. (vervolg),10869
 Peize.,10501
 Nijmegen.,11209
-Son.,10937
 Brakel.,11125
 Velp.,10698
 Giessen Nieuwkerk,10255
@@ -38,16 +38,16 @@ Schalkwijk.,10378
 Vlissingen.,10270
 Leijden.,10702
 Langerak.,11127
-Diemen.,11039
-Haarzuilens.,10737
+Groesbeek.,10616
+Eigelshoven,10960
 Oostzaan.,11303
 Hoogland.,10545
-Grubbenvorst.,10176
+Baardwijk.,10006
 Bussum.,10281
 Venhuizen.,10433
 Nieuwstadt.,11140
 Vreeswijk.,10441
-Sint Paneras,10513
+Kerkwerve.,10837
 Wijmbritseradeel.,11427
 Oerle.,10119
 Hoogemierde.,11194
@@ -58,12 +58,11 @@ Nieuwvosmeer.,10401
 Gelderland.,11043
 Zutfen,10254
 Mill en St. Hubert.,10535
-Ritthem.,10652
 Klimmen.,10977
 Rimburg.,10020
 Haelen.,10321
 St. Kruis.,10235
-Deursen,10379
+Broeksitttert,10655
 Ulrum.,10180
 Hillegom.,11236
 Cothen.,11316
@@ -78,10 +77,11 @@ Veen.,10015
 Mesch.,11070
 Bergharen.,10883
 Wanroij.,10265
-t Zandt.,10956
+Renen,10309
 Nieuwer Amstel.,10799
 Wanneperveen.,10105
 Oudshoorn.,11011
+'s Heerenhoek,10721
 Bergh.,10350
 Harmelen.,10183
 Hilvarenbeek.,11297
@@ -90,10 +90,10 @@ Haarlemmerliede en Spaarnwoude.,10508
 Zeeland.,10759
 Soerendonk,11341
 Born.,10326
-Kethel en Spaland.,10551
+Schellinkhout.,10772
 Egmond aan Zee.,10421
 Abcoude Baambrugge,11184
-Rilland en Maire.,10479
+Oosterland.,11237
 Schiebroek.,11306
 Mheer.,10538
 Kockengen.,10765
@@ -117,14 +117,14 @@ Biervliet.,10257
 Wageningen.,11010
 Drongelen c.a.,10406
 Haastrecht.,11049
-Ohé en Laak.,10420
+Margraten.,11243
 St. Pancras,10513
 Voorhout.,10017
 Houtrijk en Polanen.,11252
+Zuid- en NoordSchermer,11311
 Hemmen (Geene kom),11162
 Doornspijk.,10069
 Leijderdorp,10058
-St. Odiliënberg,10278
 Meeden.,10304
 Lange-ruigeweide,10900
 Kampen.,10253
@@ -133,11 +133,11 @@ IJsselmuiden.,10641
 Voorst.,10912
 Ottoland (Geene kom),10097
 Veur.,10366
-Engwirden,10157
+Ammerstol.,10863
 Gulpen.,11032
 Langbroek (Geene kom),11413
 Maashees,11143
-Westzaan.,11381
+Hardenberg (Stad),10174
 Zonnemaire.,10040
 Haarlemmermeer.,11387
 Veldhuizen.,10713
@@ -155,16 +155,18 @@ Wonseradeel.,10454
 Heinenoord.,10821
 Ste. Geertruid,10288
 Zundert.,11192
+Zuid-Schalkwijk c.a.,11394
 Overzand,11422
 Herten.,10138
 Hardenberg (Ambt),10174
 Achttienhoven (Geene kom),10972
 Burgh.,11000
-Sluis.,10895
+Nieuwleusen.,10384
 "Woensdrecht, Hoogerheide en Hinkelenoord.",10010
 Onstwedde.,10610
-Katwoude.,11136
+Grijpskerk.,10244
 Est en Opijnen.,11092
+'s Heer Arendskerke,10875
 Vorden.,10957
 Geldermalsen.,10881
 Mill,10452
@@ -180,27 +182,31 @@ de Lier.,10241
 Oldenmarkt,10858
 "Meeuwen, Hull en Babilonienbroek.",10216
 Wijk en Aalburg.,11084
+Maastricht.,10182
 Schaasberg,11335
 Deurne en Liessel.,10379
 Heumen.,10600
-s Hertogenbosch.,10054
+'s Hertogenbosch.,10054
+Zevenhuizen.,11377
 St. Oedenrode.,10399
 Loosduinen.,10997
 Dungen,11412
 Helder (Vervolg),10205
 Schinnen.,10132
 Kedichem (Geene kom),10280
+Egmond Binnen,10989
 Krimpen aan den IJssel.,10859
 Koevorden,10383
 Schoterland.,10680
 Wateringen.,11329
 Oosterhesselen.,10490
 Dreischor.,10885
+Oh√© en Laak.,10420
 Werkhoven.,11299
 Borkelo,10432
-Princenhage.,10762
+Delden (Ambt),11400
 Wessem.,10127
-Kortgene.,10250
+Ottersum.,10862
 Beilen.,10520
 Melissant.,10918
 Haren (Gron.),11058
@@ -208,8 +214,8 @@ Meppel.,11204
 Krimpen a/d Lek,10617
 Uithuistermeeden.,10246
 Goor.,10076
-Stevensweert.,11203
-Oldekerk.,11332
+Standaarbuiten.,11212
+Tegelen.,11333
 Aagtekerke.,10531
 Beijerland (Oud-).,11043
 Weerselo (Geene kom),10893
@@ -228,12 +234,13 @@ Hilversum.,11285
 Strucht.,11034
 Heijthuijsen,10840
 IJsselstein.,10152
-Zwaag.,10218
-Zuid-Schalkwijk c.a.,11394
+Menaldumadeel.,11144
+Doorwerth.,11304
 Fort Bath en Bath.,10479
 Oudendijk.,11090
 Stein.,11437
-Reusel.,10162
+'s Gravemoer.,10469
+Jabeek.,10256
 Zijpe.,10004
 Loon op Zand.,11259
 Stedum.,10771
@@ -255,12 +262,10 @@ Baarderadeel.,10422
 Waspik.,10402
 Nederhorstdenberg,10715
 Tietjerksteradeel.,11241
-s Gravesande,10640
 Heinkenszand.,10413
 Zuid-Scharwoude.,10159
 Poortvliet.,11181
 Maasbracht.,10964
-Baardwijk.,10006
 Beijerland (Nieuw-).,11043
 Diever.,10418
 Wijnandsrade.,10992
@@ -268,11 +273,9 @@ Emmen.,11180
 Terschelling.,11210
 West-Dongeradeel.,10129
 Brummen.,10798
-Broek.,11214
 Bommenede.,10785
-Nieuwleusen.,10384
+Sluis.,10895
 Maashees en Overloon.,10532
-s Hertogenbosch,10054
 Linne.,10990
 Bellingewolde,10340
 Zuid- en Noordschermer,11311
@@ -281,33 +284,34 @@ Leens.,11050
 Bodegraven.,11091
 Neeritter.,11001
 Oostvoorne.,10009
-Os,10834
 Beek en Donk.,10173
 Limburg.,10020
-Chaam.,11433
+Borkel en Schaft.,11013
 Stad-Almelo,11053
 Herwijnen.,11266
 Schin op Geulle.,10780
 Watergraafsmeer.,11122
-Haaren.,11155
 Heteren.,10290
 Nibbikswoud,10091
-Borkel en Schaft.,11013
+Chaam.,11433
 Grijpskerke.,10801
 Angerlo (Geene kom),11131
 Heijthuijsen.,10840
-Vollenhoven (Ambt),11088
+Langeruigeweide.,10900
 Zuidzande.,10437
 Heesbeen,10756
 Heer Hugowaard.,10752
 Clinge.,10965
+'s Heerenhoek.,10721
 "Vessem, Wintelre en Knegsel.",11414
 Sommelsdijk.,11097
+Wormerveer.,10361
 Steenderen.,10497
 Serooskerke (Walcheren).,11221
 Herkingen.,10267
 Ameide.,11349
-Dalfsen.,11007
+Alblas (Oud-).,10826
+Ensched√©,10364
 Delfzijl.,10976
 Pernis.,11245
 Capelle.,11233
@@ -321,7 +325,7 @@ Hensbroek.,10181
 Zwollerkarspel,10654
 Groede.,11312
 Duiven.,11028
-Langeruigeweide.,10900
+Vollenhoven (Ambt),11088
 Munstergeleen.,10273
 Koudekerke.,11428
 Alkemade (Vervolg),10349
@@ -330,20 +334,19 @@ Tonge (Oude).,11412
 Stratum.,10172
 Bergen.,11424
 Ilpendam.,10809
-Beugen,11424
+Angerlo.,11131
 Westbroek.,10145
 Heerdewaarden,10067
 St. Annaland,11200
 Beegden.,11089
-Delden (Ambt),11400
 Ruwiel.,10526
 Best.,10442
 Tienhoven.,10706
-Baexem.,11255
 Texel.,10237
 Helmond.,10932
 Teteringen.,10677
 Ovezande.,11422
+Weerd,11081
 Warnsveld. (Vervolg),10838
 Leerbroek (Geene kom),10465
 Kerkwijk.,10791
@@ -353,19 +356,19 @@ Megen.,10988
 Beverwijk.,10272
 Bunnik.,10820
 Havelte (Geene kom),10186
-Goudswaard.,10914
+West-Stellingwerf.,11322
 Heerde.,10291
 Utingeradeel.,10140
 Bloemendaal.,10850
 Gieten.,10506
 Tonge (Nieuwe).,11412
-Hoorn.,11392
+Poortugal,11395
 Waddinxveen (Noord-).,10081
 Baarn.,11411
 Horst.,11108
 Heenvliet.,10823
-Broeksitttert,10655
-Valburg.,11071
+Deursen,10379
+Lopik.,10333
 Renswoude.,10269
 Neer.,10682
 Krimpen aan de Lek.,10617
@@ -373,10 +376,10 @@ Lekkerland (Nieuw-),10142
 Ferwerderadeel.,11284
 Vledder.,11120
 Oijen en Teeffelen.,10869
-Nederhorst den Berg.,10715
-Winsum.,11135
+Witten,11371
+Schoten.,10382
 Warmenhuizen.,10221
-Vollenhove (Stad).,11088
+Oud Valkenburg,10868
 Nieuwerkerk.,10911
 Charlois.,10430
 Urk.,10783
@@ -389,10 +392,13 @@ Barradeel.,10156
 Dwingelo.,10331
 Wedde.,10247
 Kapelle a/d IJsel,11248
+Odili√´nberg.,10278
 Haps.,11283
 Meliskerke.,11221
 Amstenrade.,10062
 Berg,10350
+Vlaardingen.,10811
+'s Hertogenbosch,10054
 Hilligersberg,10227
 Nijeveen.,10774
 Doetinchem (Ambt-) (Geene kom),10396
@@ -420,9 +426,8 @@ Obbicht en Papenhoven.,10388
 Lochem.,11263
 Slenaken.,11274
 Zandvoort.,10910
-Poortugal,11395
 Pijnacker.,10031
-Zontelande,10779
+Haskerland.,10022
 Hulsberg.,11216
 Hooge-Mierde c.a.,10258
 Rosendaal c.a.,10684
@@ -435,7 +440,7 @@ Alphen.,10995
 Zevenhoven.,11317
 Dommelen.,10424
 Opperdoes.,10523
-Bierum.,11294
+Broeksittard.,10655
 Aalten.,11046
 Langbroek.,11413
 Berg en Terbijt,10796
@@ -446,7 +451,7 @@ Kuilenburg,10342
 Bladel c.a.,10749
 Borculo.,11307
 St. Philipsland,10394
-Nibbixwoud.,10091
+Loenersloot.,10208
 St. Anna ter Muiden,11012
 Heilo,10793
 Balgoij.,10849
@@ -459,7 +464,8 @@ Badel,11006
 Ridderkerk.,10646
 Lonneker.,11045
 Broekhuijsen.,10856
-Wilnis.,10365
+Grootebroek.,11337
+Almkerk en Uitwijk.,10295
 Bielswijk,10994
 Kerkrade.,10313
 Enkhuizen.,10729
@@ -469,14 +475,13 @@ Willige-Langerak (Geene kom),10368
 Cromvoirt.,10053
 Ossenisse.,10841
 Akersloot.,10346
-Schermerhorn.,10308
+Gilze c.a.,10535
 Abcoude Baambrugge.,11184
 Maurik.,10300
 Wadenoijen (Geene kom),10201
 Nuland.,10118
 Diepenheim.,10311
 Aarle Rixtel.,10757
-Hoogkarspel.,10642
 Schipluiden.,10130
 Weert.,11081
 Nieuwveen.,10487
@@ -491,25 +496,22 @@ Vlagtwedde.,11249
 Nieuw- en St. Joostland,11340
 Zuidbroek.,11282
 Epe.,10940
-Angerlo.,11131
+Beugen,11424
 Zuid- en Noordschermer.,11311
 Luiksgestel,10011
 s Heer Abtskerke,10337
 Hoogeveen.,10839
 St. Pieter.,10137
-Renen,10309
+'s Heer-Abtskerke.,10337
 Rheden.,11355
 Geul,10530
 Wijngaarden.,10263
-West-Stellingwerf.,11322
-Koudekerk.,11428
 Dreumel (Geene kom),11232
 Bakel en Milheeze.,10749
 Herkenbosch en Melick.,10819
 IJerseke,11247
 Zutphen.,10254
 Nijkerk.,10446
-s Heer-Arendskerke.,10875
 Lienden.,11093
 Colijnsplaat.,10121
 Rijp.,10004
@@ -547,7 +549,7 @@ Middelburg (Vervolg),10483
 Bergambacht.,10962
 Hoevelaken.,11358
 Nunhem.,10736
-Alblas (Oud-).,10826
+Dalfsen.,11007
 Ewijk.,10471
 Herpen.,11262
 Stoppeldijk.,10100
@@ -565,7 +567,7 @@ Sevenum.,10045
 Beusichem.,11182
 Beuningen (Geene kom),10417
 Hontenisse.,11123
-Vlaardingen.,10811
+Hoogkarspel.,10642
 Overasselt.,10952
 Duivendijke.,10335
 Pancras (St.).,10513
@@ -575,7 +577,7 @@ Venraij.,11222
 Halsteren.,10387
 Ellemeet.,10102
 Twisk.,10371
-Putten.,11109
+Weerselo.,10893
 Wanssum.,10991
 Duizel en Steensel (geene kom),11005
 Sambeek.,10339
@@ -594,6 +596,7 @@ Drenthe.,10210
 Dodewaard (Geene kom),10647
 Nuth.,10104
 Doesburg.,10327
+√Üngwirden,10157
 Sittard.,11230
 Nieuwkoop.,10728
 Delft.,10928
@@ -606,22 +609,21 @@ Ouddorp.,11126
 Ambt-Vollenhove,11088
 Wijk (de),10471
 Loosdrecht.,10639
-s Gravenhage.,11434
 Aar (ter).,10392
 Simpelveld.,10515
 Doetichem,10396
 "Berkel, Enschot en Huyclom.",11132
-Anna-Paulowna,10344
+Deil.,10057
 Boxtel.,10083
 Wamel.,10042
 Sprang.,10659
 Krabbendijke.,11038
-Noorbeek.,10283
+Stad aan 't Haringvliet.,11239
 Tholen.,10376
 Bildt (De),10686
 Duizel,11170
 Gronsfeld.,10323
-Dordrecht.,11157
+Havelte.,10186
 Zoetermeer.,10766
 Callantsoog.,10559
 Scherpenisse.,10375
@@ -639,11 +641,13 @@ Rijp (De),10521
 Hoogezand.,10410
 Wervershoof.,11270
 Oudepekela.,10848
-Oosterland.,11237
+Rilland en Maire.,10479
 Snelrewaard.,10802
+Buren.,11286
 Noorddijk.,10979
 Bemmel.,10744
 Andijk.,10822
+'s Gravendeel,10052
 Zoelen.,10897
 Heesch.,10149
 Wassenaar.,10164
@@ -652,17 +656,17 @@ Vlijmen.,11293
 Hoeven en St. Maartenspolder.,10716
 Ouderijn,10114
 Goedereede.,10981
-Wormerveer.,10361
+Goudswaard.,10914
 Vught.,11224
 Kamerik.,10554
 Lekkerland (Nieuw.).,10142
-Vaals.,10007
+'t Zandt.,10956
 Nederhemert.,10310
 Beugen c.a.,10988
 Raalte.,10279
 Edam.,10884
 Zes Gehuchten.,10329
-Nigtevecht.,10160
+Barsingerhorn.,10973
 Houten.,10230
 Aar (Ter),10392
 Oegstgeest.,10287
@@ -671,16 +675,17 @@ Denekamp.,10245
 "Hemelumer, Oldephaert en Noordwolde.",10334
 Harenkarspel.,10963
 Meeuwen c.a.,10988
-Millingen.,10072
+Uitgeest.,11238
 Numansdorp.,11346
-Hengelo.,10907
+Noordwijkerhout.,11134
 Medemblik.,11215
 Aalst.,11423
 "Alem, Maren en Kessel.",10495
-Reek.,10671
+Hoorn.,11392
 Alblas- (Oud),10826
 Delfshaven.,10908
-Moercapelle.,11383
+Aalsmeer.,11264
+'s Graveland,10534
 Ruinen.,10629
 Hoofdplaat.,10147
 Weel,11116
@@ -689,8 +694,9 @@ Menaldumadeel Vervolg,11144
 Vessem c.a. (Geene kom),11269
 Borgharen.,11334
 Abcoude Proostdij,10712
+Princenhage.,10762
 Vessem c.a.,11269
-Obdam.,11338
+Meerlo.,11416
 Stiphout.,11386
 Uithoorn.,11206
 Benthuizen.,10398
@@ -708,6 +714,7 @@ Laagnieuwkoop,10305
 Lisse.,10197
 Marken.,10901
 Katwijk.,10707
+'s Gravenpolder.,11059
 Koedijk.,10510
 Wonseradeel (Vervolg),10454
 Koewacht.,10892
@@ -715,17 +722,17 @@ Wieringen.,11277
 Bruinisse.,11291
 Weesperkarspel.,10377
 Rolde.,10470
-Wijdewormer.,10434
+Oosterhout.,11280
 Hardenberg (Stad).,10174
 Gorssel.,10085
 Willeskop (Geene kom),10758
 Mook,10038
+'s Gravenmoer,10469
 s Gravenhage,11434
 Zuijlen,10059
 Tonge (Oude-),11412
 Westerhoven.,11041
-s Heer-Abtskerke.,10337
-Lopik.,10333
+Valburg.,11071
 Waarder.,10830
 Vlist.,11174
 Kruiningen.,10077
@@ -733,10 +740,8 @@ Strijen.,10558
 Zwartewaal.,10703
 Ellewoutsdijk.,11300
 "Dieden, Demen en Langel.",11138
-Culemborg.,10342
 Westbroek (Geene kom),10145
 Idaarderadeel.,10815
-s Gravemoer.,10469
 Posthoek.,10993
 Zalk,10036
 Biggekerke.,11364
@@ -754,23 +759,23 @@ Finsterwolde.,10212
 Oud Vosmeer,10134
 Veldhoven en Meereveldhoven.,10071
 Waardenburg.,10238
+'s Gravendeel.,10052
 Philippine.,10486
-Stad aan 't Haringvliet.,11239
+Noorbeek.,10283
 Rijsen,10358
 Rhijnsburg.,11118
 Deursen en Dennenburg.,10209
 Raasdorp.,10789
-Schoten.,10382
+Winsum.,11135
 Snelrewaard (Geene kom),10802
 Tubbergen.,10694
+label_clean,10321
 Odoorn.,11320
 Lichtenvoorde.,10242
-Eigelshoven,10960
 Voorburg.,11103
-Oud Valkenburg,10868
+Vollenhove (Stad).,11088
 Stavenisse.,10619
 Goudriaan.,10450
-t Bildt.,10128
 Reeuwijk.,10485
 Ambt-Hardenberg (Geene kom),10174
 Hardenberg (Ambt).,10174
@@ -786,17 +791,18 @@ IJlst.,11062
 Geervliet.,10842
 Stad-Vollenhove,11183
 Zwammerdam.,10675
+'s Gravenpolder,11059
 Barsingerhorn (Vervolg),10973
 Wouw.,10808
 Borger.,10448
-Havelte.,10186
+Dordrecht.,11157
 Belfeld.,10292
 Oldenzaal.,11100
 Beijerland (Zuid-),11043
 Aar (Ter) (Geene kom),10392
 Rhenen.,10309
 Willige Langerak.,10368
-Weerselo.,10893
+Putten.,11109
 Lekkerland (Nieuw),10142
 Zevenbergen.,10046
 Nieuwe Schans.,10008
@@ -812,19 +818,16 @@ Hoedekenskerke.,11072
 Vriesenveen.,10643
 Doetinchem (Ambt).,10396
 Liempde.,10390
-Hardenberg (Stad),10174
-Opmeer.,10609
+Westzaan.,11381
+Hoogkerk.,10953
 Smilde.,11033
 Cuijk en St. Agatha.,10023
 Heino (Vervolg),10854
 Steenwijkerwold.,11347
 Leusden.,10978
 Krommenie.,10373
-s Heerenhoek.,10721
 Beerta.,11043
-Luijksgestel.,10011
 Dinxperlo.,11154
-s Gravenmoer,10469
 Kessel.,10890
 Midwolde.,10356
 Reden,11355
@@ -843,9 +846,9 @@ Nieuwe-Pekela,10950
 Naarden.,10187
 Eelde.,10622
 Maartensdijk.,10691
-Hoogkerk.,10953
-Ewijk (Geene kom),10471
-Veldhuizen (Geene kom),10713
+Opmeer.,10609
+Luijksgestel.,10011
+Driewegen.,11115
 Sijbekarspel.,11167
 Muiden.,10958
 IJzendoorn.,11430
@@ -859,7 +862,7 @@ Haren.,11058
 Amersfoort.,10948
 Lith.,11219
 Wijhe.,10888
-Vlaardinger Ambacht.,10790
+Nieuwstad,11140
 Nut,10104
 Berkhout.,10354
 Westdorpe.,10915
@@ -868,11 +871,13 @@ Monster.,10019
 Baarle-Nassau.,10060
 Oudorp.,10363
 Ham (den).,11433
+'s Gravezande.,10640
 Leek.,10604
 Arnhem.,10795
 Zuidlaren.,10002
 Eede.,11128
 s Heerenhoek,10721
+'s Heer Abtskerke,10337
 Waddinxveen (Zuid-).,10081
 Laren.,10649
 "Rucphen, Sprundel en Vorenseinde.",10761
@@ -885,14 +890,14 @@ Anlo.,10787
 Adorp.,10996
 Ginneken en Bavel.,10406
 Haamstede.,10701
-Gilze en Rijen.,11375
+"Nuenen, Gerwen en Nederwetten.",10761
 Spaubeek.,10552
 Kollumerland c.a.,10869
 Purmerende.,11066
 Wildervank.,10825
 Rauwerderhem (Vervolg),10330
 Hengelo (Over.),10907
-Doorn.,10213
+Zuidhorn.,10021
 Tilburg.,10792
 Pieter (ST). (Geen kom),10418
 Piershil.,10179
@@ -900,22 +905,23 @@ Doetinchem (Stad-),10396
 Alkemade.,10349
 Horssen.,10607
 Klaaswaal.,10284
-Kesteren.,10916
+St. Michielsgestel.,10496
 Nieuwland.,11340
 IJsselmonde.,11357
 Noordwelle.,10055
 Nieuwleusen (Geene kom),10384
 Katendrecht.,11401
 Maassluis.,10880
-Zes Gehuchten,10329
+Groenlo.,11094
 Neederweert,10681
-Achttienhoven.,10972
-Nieuwstad,11140
+St. Laurens,10106
+Vlaardinger Ambacht.,10790
 Schaesberg.,11335
 Bokhoven.,11083
 Hoog-Blokland.,11040
+'s Gravenhage.,11434
 Bellingewolde.,10340
-Jutphaas.,10374
+Brouwershaven.,10030
 Krimpen a/d IJssel,10859
 Westwoud.,11101
 Maarheeze.,11143
@@ -944,14 +950,15 @@ Arnemuiden.,11419
 Blokker.,10804
 Giessen Nieuwkerk.,10255
 Giessen.,10193
-Zeelst.,10096
+Son.,10937
 Delden (Stad).,11400
 Nieuwerkerk aan den IJssel.,10855
+'s Heer-Arendskerke.,10875
 Veere.,10369
 Zuiddorpe.,11087
 Thorn.,11195
 Nistelrode.,10094
-Vollenhove (Stad),11088
+Abbekerk.,10439
 Oudenbosch.,10397
 Loppersum.,10934
 Landsmeer.,11225
@@ -959,9 +966,9 @@ Doetinchem (Ambt),10396
 Achterkarspelen.,10199
 Oostkapelle.,10720
 Vianen.,10887
-St. Pieter,10137
+Beek.,11374
 Maarsseveen.,10874
-Stramproij.,11186
+Broek op Langedijk.,10955
 Zevenaar.,10938
 Wijk c.a.,10023
 Egmond binnen (Vervolg),10989
@@ -970,10 +977,9 @@ Alphen c.a.,10495
 Posterholt.,10456
 Maarssen.,10191
 Valkenswaard.,11031
-Kerkwerve.,10837
+Sint Paneras,10513
 Diepenveen.,10933
 Voorschoten.,10537
-Margraten.,11243
 Winterswijk.,11119
 Oost- en West-Souburg.,11396
 Vleuten.,10658
@@ -987,14 +993,14 @@ Streefkerk.,11105
 Warmond.,10204
 Geertruit (St.),10288
 Kollumerland en Nieuw-Kruisland.,10984
-Ammerstol.,10863
+Engwirden,10157
 Brunsum,10533
 Almelo (Stad).,11053
 Lier (De),11279
 Borssele.,10043
-Grijpskerk.,10244
+Katwoude.,11136
 Son,11176
-Zevenhuizen.,11377
+Herkenbosch en Melick,10819
 Lexmond.,10930
 Oudkarspel.,11051
 Zieriksee,10843
@@ -1005,23 +1011,26 @@ Ouderkerk aan den IJssel.,10095
 Hoornaar.,10516
 Zuijlen.,10059
 Ommen (Stad).,11069
+Groningen.,10426
 Hagestein.,10297
 Ohe en Laak,10420
-Ottersum.,10862
+Os,10834
+Vaals.,10007
 Finsterwold,10212
 Gramsbergen.,11339
 Maasbree.,11352
 Grootegast.,11080
 Staphorst (Geene kom),11362
 Maasniel.,11261
-Weerd,11081
+Eijsden.,10314
 Noordeloos.,10296
-Witten,11371
+Nederhorst den Berg.,10715
 Dinther.,10690
 Wolfaartsdijk,10543
 Doetinchem (Stad).,10396
 Vrijhoeve Capel.,10870
 Nieuwe Niedorp.,10073
+'s Gravenhage,11434
 Doetinchem (Stad),10396
 Hoenkoop.,10611
 Rauwerderhem.,10330
@@ -1029,17 +1038,17 @@ Bunde.,10831
 Mierlo.,10215
 Hillegersberg.,10227
 St. Maarten,10740
-Broeksittard.,10655
+Bierum.,11294
 Hindelopen.,10672
 Berlicum en Middelrode.,10202
-Grootebroek.,11337
+Wilnis.,10365
 Bennebroek.,10734
 Delden (Stad),11400
 Oostburg.,10782
 Renkum.,11325
 Geul.,10530
 St. Kruis,10235
-Ede.,10743
+Koudekerk.,11428
 Stompwijk.,10742
 Rijckholt.,10824
 Blankenham (Geene kom),10320
@@ -1053,9 +1062,9 @@ Breskens.,10233
 Weesp.,10773
 Kwadijk.,10775
 Beuningen.,10417
-Barsingerhorn.,10973
+Nigtevecht.,10160
+'s Gravesande,10640
 Oud-Vroenhoven.,11348
-Gent.,10440
 Westkapelle.,10931
 Giethoorn.,10708
 Heijthuizen,10246
@@ -1065,26 +1074,26 @@ Nieuwkuik en Onsenoort.,10073
 Schoonhoven.,10980
 Lindt (Groote),11305
 Zweelo,10872
-Enschedé,10364
 Wadenoijen.,10201
 Oudenrhijn.,10114
 Middelburg.,10483
 Avenhorn.,11147
 Kapelle.,11223
 Maartensdijk (St.),10691
-Almkerk en Uitwijk.,10295
+Reek.,10671
 Waalwijk.,11359
 Neede.,10367
-Meerlo.,11416
+Obdam.,11338
 Vlodrop.,10644
 Odijk.,11003
 Boschkapelle.,10605
 Werken,10676
+Lier (de),11279
 Nieuwenhoorn.,10338
 Marum.,11431
 Aduard.,10999
 Wormer.,10648
-Haskerland.,10022
+Zontelande,10779
 Leende.,11017
 Schaijk.,10276
 IJzendijke.,10688
@@ -1098,13 +1107,14 @@ Wessum,10127
 Waarde.,10082
 Nootdorp.,10601
 Herpt en Bern.,10819
+'t Bildt.,10128
 Zwalmen,10474
 Kedichem.,10280
 Norg.,10608
 Blokzijl.,10689
 Lemsterland.,10142
 Driebergen.,10777
-"Nuenen, Gerwen en Nederwetten.",10761
+Baexem.,11255
 Kattendijke.,11218
 Hurwenen.,11432
 Dalen.,11004
@@ -1113,41 +1123,41 @@ Polsbroek.,10993
 Haarlem.,10357
 Arkel.,10079
 Papendrecht.,10427
-Tonge (Nieuwe-),11412
+Cadier en Keer.,11447
 Loenen.,11202
 Ambt-Almelo (Geene kom),11065
 Vries.,10630
-Uitgeest.,11238
+Millingen.,10072
 Besoijen.,10056
 Zijpe (De),10004
 Venraij,11222
 Barneveld.,10906
 Noordbrabant.,10814
-St. Michielsgestel.,10496
+Kesteren.,10916
 Oude-Niedorp,10896
 Ermelo.,10732
 St. Jansteen,10864
 Arenhorn,11147
+'s Graveland.,10534
 Wetsdongeradeel,10129
 Ravenstein.,10805
 Bedum.,10425
 Terheijden.,10905
 Vier Polders.,11056
-Noordwijkerhout.,11134
+Gent.,10440
 Stad-Hardenberg,11169
 Rijp,10521
-Odiliënberg.,10278
 Kloetinge.,10155
 Vlist (Geene kom),11174
 Meijel.,10925
 Ouwerkerk.,10968
-Groenlo.,11094
+Zes Gehuchten,10329
 Gorinchem.,10942
 Cats,10919
 Schagen.,10511
 Ambij.,11349
 Bleskensgraaf en Hofwegen.,10451
-Sleen.,10489
+Kortgene.,10250
 Budel.,10219
 Horn.,11176
 Asperen.,11369
@@ -1157,15 +1167,14 @@ Westerbork.,11095
 Mijdrecht.,11379
 Borne.,10326
 Dongen.,11412
-Ængwirden,10157
+Sleen.,10489
 Noordholland.,11322
-St. Laurens,10106
+Achttienhoven.,10972
 Oud- en Nieuw-Gastel.,11363
 Ittervoort.,10190
 Schore.,10544
 Maarn (Geene kom),10392
-s Gravenpolder.,11059
-Houthem.,11111
+Grafhorst.,10224
 Zegveld.,10949
 Steenbergen.,10731
 Overschie.,10683
@@ -1177,13 +1186,13 @@ St. Maarten.,10740
 Rijsenburg.,10613
 Noordgouwe.,11107
 Nieuweniedorp,10073
-Woensel en Eckart.,10894
+Termunten.,11023
 Haaksbergen.,11435
 Linschoten.,11324
 Wolphaartskerke,10543
 St. Anna ter Muiden.,11012
 Waterlandkerkje.,10352
-Maastricht.,10182
+Beesel.,10195
 Zoutelande.,10779
 Zierikzee.,10843
 Putte.,10099
@@ -1199,14 +1208,12 @@ Schoorl.,10627
 Broek in Waterland.,10289
 Markelo.,11382
 Neuzen.,10704
-Loenersloot.,10208
+Nibbixwoud.,10091
 Ham (den),11433
-s Gravezande.,10640
 Mijnsheerenland.,11112
-Wissenkerke.,10243
+Hoogemierde,11194
 Lekkerkerk.,10050
 Hunsel.,10784
-St. Odiliënberg.,10278
 Wijlre.,10131
 Warffum.,10498
 Wierden.,10676
@@ -1215,7 +1222,7 @@ Leusden (Geene kom),10978
 Udenhout.,11268
 Dinteloord en Prinsland.,11193
 Kralingen.,11367
-s Graveland.,10640
+Ritthem.,10652
 Vinkeveen en Waverveen.,11048
 de Werken en Sleeuwijk.,10116
 Hazerswoude.,11257
@@ -1226,13 +1233,15 @@ Brunssum.,10533
 Middelharnis.,11067
 Midwolde,10356
 Dokkum.,10198
-Tegelen.,11333
+Oldekerk.,11332
 Veghel.,10985
 Zoeterwoude.,11074
+St. Odili√´nberg,10278
 Willeskop.,10758
 Ammerzoden.,10151
 Opsterland.,10005
 Winschoten.,10453
+'t Bildt,10128
 Borkel,10432
 Zwaluwe,10093
 Capelle aan den IJssel.,11248
@@ -1240,9 +1249,9 @@ Tull en 't Waal (Geene kom),11022
 Everdingen.,10638
 Nieuwe-Schans,10008
 Aengwirden.,10157
-Standaarbuiten.,11212
+Stevensweert.,11203
 Abbenbroek.,11026
-Oeffelt.,10360
+Monnikendam.,10983
 Eenrum.,10904
 Huizen.,11170
 Barendrecht (Oost- en West-).,10943
@@ -1279,17 +1288,18 @@ Dodewaard.,10647
 Zuidholland.,10316
 Kloosterburen.,10628
 Overslag.,10730
-Grafhorst.,10224
+Houthem.,11111
+Ewijk (Geene kom),10471
 Nieuwenhagen.,10088
 Montfort.,10266
 Ankeveen.,10936
 Bergenopzoom,11037
-Groningen.,10426
+Broek.,11214
 Doniawerstal.,10086
 Hoogland (Geene kom),10545
 Avereest (Geene kom),11190
+Gilze en Rijen.,11375
 Rijekholt.,10824
-s Gravendeel.,10052
 Leerdam.,10685
 Nieuwkuik,11278
 Hoogvliet.,10348
@@ -1303,23 +1313,24 @@ Scherpenzeel.,11146
 Schoonrewoerd.,10214
 Egmond binnen,10989
 Heemstede.,11288
+Hengelo.,10907
 Nieuw- en St. Joostland.,11340
 Arcen en Velden.,10202
 Leerbroek.,10465
 Wilsum.,10194
 Helle.,10205
-Deil.,10057
+Anna-Paulowna,10344
 Ameland.,11153
 Bocholtz.,10986
 St. Michielsgestel,10496
-Gilze c.a.,10535
+Schermerhorn.,10308
 Graauw,11409
 Sloten (Nh.),10867
 Axel.,11289
 Utrecht.,10722
 Amerongen.,11372
-Aalsmeer.,11264
-Termunten.,11023
+Moercapelle.,11383
+Woensel en Eckart.,10894
 Stoutenburg (Geene kom),10438
 Boosteren.,10877
 Oudelande.,11139
@@ -1329,17 +1340,19 @@ Kuinre.,11148
 Sas van Gent.,11405
 Scheemda.,10711
 Warder.,11073
-Menaldumadeel.,11144
+Zwaag.,10218
 Holten.,11246
 Hendrik-Ido-Ambacht.,10416
+Haarzuilens.,10737
 t Bildt,10128
 Loonopzand,11259
 Wittem.,11371
-Doorwerth.,11304
+Zeelst.,10096
 Hardinxveld.,10167
 Nieuw en St. Joosland,11340
 Ovezand,11422
 Hoek.,10038
+St. Odili√´nberg.,10278
 Etten c.a.,11269
 Jisp.,10481
 Ottersun.,10862
@@ -1349,35 +1362,35 @@ Maasdam.,11019
 Tiel.,10027
 Rijnsaterwoude.,11129
 Valkenburg.,11077
-Driewegen.,11115
+Veldhuizen (Geene kom),10713
 Overasselt (Geene kom),10952
 Grathem.,11008
 Beers.,11410
 Waddinxveen (Zuid-),10081
 Midwoud.,10924
-Zuidhorn.,10021
+Doorn.,10213
 Bemelen.,10878
-Brouwershaven.,10030
+Jutphaas.,10374
 Huijbergen.,10466
 Kamperveen.,10443
 Druten.,10068
 Beets.,10536
 "Oploo, St. Anthonis en Ledeacker.",11415
 Tull en 't Waal.,11022
-Abbekerk.,10439
+Vollenhove (Stad),11088
 Oudenrijn (Geene kom),10114
 Driel.,10341
 Heemskerk.,10679
-Jabeek.,10256
+Reusel.,10162
 Castricum.,11287
 Rhoon.,10903
-Herkenbosch en Melick,10819
+Haaren.,11155
 Leeuwarden.,11228
 Andel.,10871
 Riethoven.,10455
 Dirksland.,11344
 Nieuwe Pekela.,10950
-Eijsden.,10314
+Ede.,10743
 Beijerland (Zuid-).,11043
 Nieuwland (Geene kom),11340
 Lierop.,11279
@@ -1391,7 +1404,7 @@ Ossendrecht.,10929
 Huisseling.,11047
 Brielle.,10232
 Elburg.,11113
-Cadier en Keer.,11447
+Tonge (Nieuwe-),11412
 Slochteren.,10747
 Gasselte.,11099
 Ambt-Ommen,11069
@@ -1408,11 +1421,11 @@ Roermond.,11313
 Ruinerwold.,10944
 s Gravendeel,10052
 Zelhem.,11159
-Hoogemierde,11194
+Wissenkerke.,10243
 Itteren.,10458
 Spaarndam.,10192
 Oudenhoorn.,10380
-Monnikendam.,10983
+Oeffelt.,10360
 Meerkerk.,10618
 Eibergen.,10436
 Zwaluwe.,10474
@@ -1426,22 +1439,21 @@ Hoeven c.a.,10869
 Wolphaartsdijk.,10543
 Maasland.,10393
 Zuilichem.,11036
-Oosterhout.,11280
+Wijdewormer.,10434
 Tietjerksteradeel (Vervolg),11241
-Beek.,11374
+St. Pieter,10137
 Diessen.,11185
 Zwolle.,10093
 Muntendam.,10550
-Buren.,11286
+Culemborg.,10342
 Avereest.,11190
 Deventer.,10899
 Rietveld (Geene kom),10828
 Breukelen Nijenrode,10807
 Vrouwenpolder.,10635
 Westmaas.,10695
-Broek op Langedijk.,10955
+Stramproij.,11186
 Rijsbergen.,10866
-Beesel.,10195
 Boskoop.,10419
 Stellendam.,10087
 Limmen.,11370

@@ -2,12 +2,12 @@ Rietveld.,rietveld,0.1111111111111111
 t Zandt,'t zandt,0.125
 Oirschot.,oirschot,0.1111111111111111
 Heusden.,heusden,0.125
-Hoogeloon.,hoogelande,0.4
+Hoogeloon c.a.,oploo c.a.,0.35714285714285715
 Soest.,soest,0.16666666666666666
 Vlaardinger Ambacht,vlaardinger-ambacht,0.05263157894736842
 Genemuiden (Vervolg),genemuiden,0.0
 Bilt (De),biert,0.4
-Groesbeek.,groesbeek,0.1
+Diemen.,diemen,0.14285714285714285
 Heukelom,heukelum,0.125
 Ste. Geertruid.,sint geertruid,0.26666666666666666
 Lindt (Groote).,linden,0.3333333333333333
@@ -15,17 +15,17 @@ Pannerden.,pannerden,0.1
 Herwen en Aerdt.,herwen en aerdt,0.0625
 Krimpen a.d. IJssel (Geene kom),krimpen aan den ijssel,0.22727272727272727
 Aardenburg.,aardenburg,0.09090909090909091
-Schellinkhout.,schellinkhout,0.07142857142857142
+Kethel en Spaland.,kethel en spaland,0.05555555555555555
 Heeze.,heeze,0.16666666666666666
+Grubbenvorst.,grubbenvorst,0.07692307692307693
 Hoenkoop (Geene kom),hoenkoop,0.0
 Bergschenhoek.,bergschenhoek,0.07142857142857142
 Bathmen.,bathmen,0.125
-Hoogeloon c.a.,oploo c.a.,0.35714285714285715
+Hoogeloon.,hoogelande,0.4
 Overijssel.,overasselt,0.2727272727272727
 Kollumerland c.a. (vervolg),oijen c.a.,0.5294117647058824
 Peize.,peize,0.16666666666666666
 Nijmegen.,nijmegen,0.1111111111111111
-Son.,sonnega,0.5714285714285714
 Brakel.,brakel,0.14285714285714285
 Velp.,velp,0.2
 Giessen Nieuwkerk,giessen-nieuwkerk,0.058823529411764705
@@ -38,16 +38,16 @@ Schalkwijk.,schalkwijk,0.09090909090909091
 Vlissingen.,vlissingen,0.09090909090909091
 Leijden.,leiden,0.25
 Langerak.,langerak,0.1111111111111111
-Diemen.,diemen,0.14285714285714285
-Haarzuilens.,haarzuilens,0.08333333333333333
+Groesbeek.,groesbeek,0.1
+Eigelshoven,eijgelshoven,0.08333333333333333
 Oostzaan.,oostzaan,0.1111111111111111
 Hoogland.,hoogland,0.1111111111111111
-Grubbenvorst.,grubbenvorst,0.07692307692307693
+Baardwijk.,baardwijk,0.1
 Bussum.,bussum,0.14285714285714285
 Venhuizen.,venhuizen,0.1
 Nieuwstadt.,nieuwstadt,0.09090909090909091
 Vreeswijk.,vreeswijk,0.1
-Sint Paneras,sint pancras,0.08333333333333333
+Kerkwerve.,kerkwerve,0.1
 Wijmbritseradeel.,wymbritseradeel,0.17647058823529413
 Oerle.,oerle,0.16666666666666666
 Hoogemierde.,hoogelande,0.4166666666666667
@@ -58,12 +58,11 @@ Nieuwvosmeer.,nieuw-vosmeer,0.15384615384615385
 Gelderland.,reiderland,0.2727272727272727
 Zutfen,zutphen,0.2857142857142857
 Mill en St. Hubert.,mill en sint hubert,0.21052631578947367
-Ritthem.,ritthem,0.125
 Klimmen.,klimmen,0.125
 Rimburg.,rimburg,0.125
 Haelen.,haelen,0.14285714285714285
 St. Kruis.,sint kruis,0.4
-Deursen,deurne,0.2857142857142857
+Broeksitttert,broeksittard,0.23076923076923078
 Ulrum.,ulrum,0.16666666666666666
 Hillegom.,hillegom,0.1111111111111111
 Cothen.,cothen,0.14285714285714285
@@ -78,10 +77,11 @@ Veen.,veen,0.2
 Mesch.,mesch,0.16666666666666666
 Bergharen.,bergharen,0.1
 Wanroij.,wanroij,0.125
-t Zandt.,'t zandt,0.25
+Renen,rhenen,0.16666666666666666
 Nieuwer Amstel.,nieuwer-amstel,0.13333333333333333
 Wanneperveen.,wanneperveen,0.07692307692307693
 Oudshoorn.,oudshoorn,0.1
+'s Heerenhoek,'s-heerenhoek,0.07692307692307693
 Bergh.,bergh,0.16666666666666666
 Harmelen.,harmelen,0.1111111111111111
 Hilvarenbeek.,hilvarenbeek,0.07692307692307693
@@ -90,10 +90,10 @@ Haarlemmerliede en Spaarnwoude.,haarlemmerliede en spaarnwoude,0.032258064516129
 Zeeland.,zeeland,0.125
 Soerendonk,voerendaal,0.4
 Born.,borne,0.2
-Kethel en Spaland.,kethel en spaland,0.05555555555555555
+Schellinkhout.,schellinkhout,0.07142857142857142
 Egmond aan Zee.,egmond aan zee,0.06666666666666667
 Abcoude Baambrugge,abcoude-baambrugge,0.05555555555555555
-Rilland en Maire.,rilland en bath,0.29411764705882354
+Oosterland.,oosterland,0.09090909090909091
 Schiebroek.,schiebroek,0.09090909090909091
 Mheer.,mheer,0.16666666666666666
 Kockengen.,kockengen,0.1
@@ -117,14 +117,14 @@ Biervliet.,biervliet,0.1
 Wageningen.,wageningen,0.09090909090909091
 Drongelen c.a.,ginneken c.a.,0.35714285714285715
 Haastrecht.,haastrecht,0.09090909090909091
-Ohé en Laak.,ohé en laak,0.08333333333333333
+Margraten.,margraten,0.1
 St. Pancras,sint pancras,0.25
 Voorhout.,voorhout,0.1111111111111111
 Houtrijk en Polanen.,houtrijk en polanen,0.05
+Zuid- en NoordSchermer,zuid- en noord-schermer,0.043478260869565216
 Hemmen (Geene kom),hemmen,0.0
 Doornspijk.,doornspijk,0.09090909090909091
 Leijderdorp,leiderdorp,0.09090909090909091
-St. Odiliënberg,sint odiliënberg,0.1875
 Meeden.,meeden,0.14285714285714285
 Lange-ruigeweide,lange ruige weide,0.11764705882352941
 Kampen.,kampen,0.14285714285714285
@@ -133,11 +133,11 @@ IJsselmuiden.,ijsselmuiden,0.07692307692307693
 Voorst.,voorst,0.14285714285714285
 Ottoland (Geene kom),ottoland,0.0
 Veur.,veur,0.2
-Engwirden,aengwirden,0.1
+Ammerstol.,ammerstol,0.1
 Gulpen.,gulpen,0.14285714285714285
 Langbroek (Geene kom),langbroek,0.0
 Maashees,maarheeze,0.3333333333333333
-Westzaan.,westzaan,0.1111111111111111
+Hardenberg (Stad),hardenberg,0.0
 Zonnemaire.,zonnemaire,0.09090909090909091
 Haarlemmermeer.,haarlemmermeer,0.06666666666666667
 Veldhuizen.,veldhuizen,0.09090909090909091
@@ -155,16 +155,18 @@ Wonseradeel.,wonseradeel,0.08333333333333333
 Heinenoord.,heinenoord,0.09090909090909091
 Ste. Geertruid,sint geertruid,0.21428571428571427
 Zundert.,zundert,0.125
+Zuid-Schalkwijk c.a.,zuidschalkwijk,0.3
 Overzand,ovezande,0.25
 Herten.,herten,0.14285714285714285
 Hardenberg (Ambt),hardenberg,0.0
 Achttienhoven (Geene kom),achttienhoven,0.0
 Burgh.,burgh,0.16666666666666666
-Sluis.,sluis,0.16666666666666666
+Nieuwleusen.,nieuwleusen,0.08333333333333333
 "Woensdrecht, Hoogerheide en Hinkelenoord.","heesbeen, eethen en genderen",0.6097560975609756
 Onstwedde.,onstwedde,0.1
-Katwoude.,katwoude,0.1111111111111111
+Grijpskerk.,grijpskerk,0.09090909090909091
 Est en Opijnen.,est en opijnen,0.06666666666666667
+'s Heer Arendskerke,'s-heer arendskerke,0.05263157894736842
 Vorden.,vorden,0.14285714285714285
 Geldermalsen.,geldermalsen,0.07692307692307693
 Mill,middelle,0.5
@@ -180,27 +182,31 @@ de Lier.,de lier,0.125
 Oldenmarkt,oldemarkt,0.1
 "Meeuwen, Hull en Babilonienbroek.","meeuwen, hill en babyloniënbroek",0.12121212121212122
 Wijk en Aalburg.,wijk en aalburg,0.0625
+Maastricht.,maastricht,0.09090909090909091
 Schaasberg,schaesberg,0.1
 Deurne en Liessel.,deurne en liessel,0.05555555555555555
 Heumen.,heumen,0.14285714285714285
-s Hertogenbosch.,s hertogenbosch,0.0625
+'s Hertogenbosch.,s hertogenbosch,0.11764705882352941
+Zevenhuizen.,zevenhuizen,0.08333333333333333
 St. Oedenrode.,st. oedenrode,0.07142857142857142
 Loosduinen.,loosduinen,0.09090909090909091
 Dungen,dongen,0.16666666666666666
 Helder (Vervolg),helden,0.16666666666666666
 Schinnen.,schinnen,0.1111111111111111
 Kedichem (Geene kom),kedichem,0.0
+Egmond Binnen,egmond-binnen,0.07692307692307693
 Krimpen aan den IJssel.,krimpen aan den ijssel,0.043478260869565216
 Koevorden,coevorden,0.1111111111111111
 Schoterland.,schoterland,0.08333333333333333
 Wateringen.,wateringen,0.09090909090909091
 Oosterhesselen.,oosterhesselen,0.06666666666666667
 Dreischor.,dreischor,0.1
+Oh√© en Laak.,ohé en laak,0.23076923076923078
 Werkhoven.,werkhoven,0.1
 Borkelo,boekel,0.2857142857142857
-Princenhage.,princenhage,0.08333333333333333
+Delden (Ambt),delden,0.0
 Wessem.,wessem,0.14285714285714285
-Kortgene.,kortgene,0.1111111111111111
+Ottersum.,ottersum,0.1111111111111111
 Beilen.,beilen,0.14285714285714285
 Melissant.,melissant,0.1
 Haren (Gron.),haren,0.0
@@ -208,8 +214,8 @@ Meppel.,meppel,0.14285714285714285
 Krimpen a/d Lek,krimpen aan de lek,0.2222222222222222
 Uithuistermeeden.,uithuizermeeden,0.17647058823529413
 Goor.,goor,0.2
-Stevensweert.,stevensweert,0.07692307692307693
-Oldekerk.,oldekerk,0.1111111111111111
+Standaarbuiten.,standdaarbuiten,0.13333333333333333
+Tegelen.,tegelen,0.125
 Aagtekerke.,aagtekerke,0.09090909090909091
 Beijerland (Oud-).,reiderland,0.2
 Weerselo (Geene kom),weerselo,0.0
@@ -228,12 +234,13 @@ Hilversum.,hilversum,0.1
 Strucht.,strucht,0.125
 Heijthuijsen,heythuysen,0.3333333333333333
 IJsselstein.,ijsselstein,0.08333333333333333
-Zwaag.,zwaag,0.16666666666666666
-Zuid-Schalkwijk c.a.,zuidschalkwijk,0.3
+Menaldumadeel.,menaldumadeel,0.07142857142857142
+Doorwerth.,doorwerth,0.1
 Fort Bath en Bath.,rilland en bath,0.4444444444444444
 Oudendijk.,oudendijk,0.1
 Stein.,stein,0.16666666666666666
-Reusel.,reusel,0.14285714285714285
+'s Gravemoer.,s gravemoer,0.15384615384615385
+Jabeek.,jabeek,0.14285714285714285
 Zijpe.,zijpe,0.16666666666666666
 Loon op Zand.,loon op zand,0.07692307692307693
 Stedum.,stedum,0.14285714285714285
@@ -255,12 +262,10 @@ Baarderadeel.,baarderadeel,0.07692307692307693
 Waspik.,waspik,0.14285714285714285
 Nederhorstdenberg,nederhorst den berg,0.10526315789473684
 Tietjerksteradeel.,tietjerksteradeel,0.05555555555555555
-s Gravesande,s gravesande,0.0
 Heinkenszand.,heinkenszand,0.07692307692307693
 Zuid-Scharwoude.,zuid-scharwoude,0.0625
 Poortvliet.,poortvliet,0.09090909090909091
 Maasbracht.,maasbracht,0.09090909090909091
-Baardwijk.,baardwijk,0.1
 Beijerland (Nieuw-).,reiderland,0.2
 Diever.,diever,0.14285714285714285
 Wijnandsrade.,wijnandsrade,0.07692307692307693
@@ -268,11 +273,9 @@ Emmen.,emmen,0.16666666666666666
 Terschelling.,terschelling,0.07692307692307693
 West-Dongeradeel.,westdongeradeel,0.11764705882352941
 Brummen.,brummen,0.125
-Broek.,broek,0.16666666666666666
 Bommenede.,bommenede,0.1
-Nieuwleusen.,nieuwleusen,0.08333333333333333
+Sluis.,sluis,0.16666666666666666
 Maashees en Overloon.,maashees en overloon,0.047619047619047616
-s Hertogenbosch,s hertogenbosch,0.0
 Linne.,linne,0.16666666666666666
 Bellingewolde,bellingwolde,0.07692307692307693
 Zuid- en Noordschermer,zuid- en noord-schermer,0.043478260869565216
@@ -281,33 +284,34 @@ Leens.,leens,0.16666666666666666
 Bodegraven.,bodegraven,0.09090909090909091
 Neeritter.,neeritter,0.1
 Oostvoorne.,oostvoorne,0.09090909090909091
-Os,oss,0.3333333333333333
 Beek en Donk.,beek en donk,0.07692307692307693
 Limburg.,rimburg,0.25
-Chaam.,chaam,0.16666666666666666
+Borkel en Schaft.,borkel en schaft,0.058823529411764705
 Stad-Almelo,stad almelo,0.09090909090909091
 Herwijnen.,herwijnen,0.1
 Schin op Geulle.,schin op geul,0.1875
 Watergraafsmeer.,watergraafsmeer,0.0625
-Haaren.,haaren,0.14285714285714285
 Heteren.,heteren,0.125
 Nibbikswoud,nibbixwoud,0.18181818181818182
-Borkel en Schaft.,borkel en schaft,0.058823529411764705
+Chaam.,chaam,0.16666666666666666
 Grijpskerke.,grijpskerke,0.08333333333333333
 Angerlo (Geene kom),angerlo,0.0
 Heijthuijsen.,heythuysen,0.38461538461538464
-Vollenhoven (Ambt),vollenhove,0.09090909090909091
+Langeruigeweide.,lange ruige weide,0.17647058823529413
 Zuidzande.,zuidzande,0.1
 Heesbeen,geesteren,0.3333333333333333
 Heer Hugowaard.,heerhugowaard,0.13333333333333333
 Clinge.,clinge,0.14285714285714285
+'s Heerenhoek.,'s-heerenhoek,0.14285714285714285
 "Vessem, Wintelre en Knegsel.","vessem, wintelre en knegsel",0.03571428571428571
 Sommelsdijk.,sommelsdijk,0.08333333333333333
+Wormerveer.,wormerveer,0.09090909090909091
 Steenderen.,steenderen,0.09090909090909091
 Serooskerke (Walcheren).,meliskerke,0.36363636363636365
 Herkingen.,herkingen,0.1
 Ameide.,ameide,0.14285714285714285
-Dalfsen.,dalfsen,0.125
+Alblas (Oud-).,oud-alblas,0.4
+Ensched√©,enschede,0.2222222222222222
 Delfzijl.,delfzijl,0.1111111111111111
 Pernis.,pernis,0.14285714285714285
 Capelle.,capelle,0.125
@@ -321,7 +325,7 @@ Hensbroek.,hensbroek,0.1
 Zwollerkarspel,zwollerkerspel,0.07142857142857142
 Groede.,groede,0.14285714285714285
 Duiven.,duiven,0.14285714285714285
-Langeruigeweide.,lange ruige weide,0.17647058823529413
+Vollenhoven (Ambt),vollenhove,0.09090909090909091
 Munstergeleen.,munstergeleen,0.07142857142857142
 Koudekerke.,koudekerke,0.09090909090909091
 Alkemade (Vervolg),alkemade,0.0
@@ -330,20 +334,19 @@ Tonge (Oude).,dongen,0.3333333333333333
 Stratum.,stratum,0.125
 Bergen.,bergen,0.14285714285714285
 Ilpendam.,ilpendam,0.1111111111111111
-Beugen,bergen,0.16666666666666666
+Angerlo.,angerlo,0.125
 Westbroek.,westbroek,0.1
 Heerdewaarden,heerewaarden,0.07692307692307693
 St. Annaland,sint annaland,0.23076923076923078
 Beegden.,beegden,0.125
-Delden (Ambt),delden,0.0
 Ruwiel.,ruwiel,0.14285714285714285
 Best.,best,0.2
 Tienhoven.,tienhoven,0.1
-Baexem.,baexem,0.14285714285714285
 Texel.,texel,0.16666666666666666
 Helmond.,helmond,0.125
 Teteringen.,teteringen,0.09090909090909091
 Ovezande.,ovezande,0.1111111111111111
+Weerd,weert,0.2
 Warnsveld. (Vervolg),warnsveld,0.1
 Leerbroek (Geene kom),leerbroek,0.0
 Kerkwijk.,kerkwijk,0.1111111111111111
@@ -353,19 +356,19 @@ Megen.,megen,0.16666666666666666
 Beverwijk.,beverwijk,0.1
 Bunnik.,bunnik,0.14285714285714285
 Havelte (Geene kom),havelte,0.0
-Goudswaard.,goudswaard,0.09090909090909091
+West-Stellingwerf.,weststellingwerf,0.1111111111111111
 Heerde.,heerde,0.14285714285714285
 Utingeradeel.,utingeradeel,0.07692307692307693
 Bloemendaal.,bloemendaal,0.08333333333333333
 Gieten.,gieten,0.14285714285714285
 Tonge (Nieuwe).,dongen,0.3333333333333333
-Hoorn.,hoorn,0.16666666666666666
+Poortugal,poortugaal,0.1
 Waddinxveen (Noord-).,waddinxveen,0.0
 Baarn.,baarn,0.16666666666666666
 Horst.,horst,0.16666666666666666
 Heenvliet.,heenvliet,0.1
-Broeksitttert,broeksittard,0.23076923076923078
-Valburg.,valburg,0.125
+Deursen,deurne,0.2857142857142857
+Lopik.,lopik,0.16666666666666666
 Renswoude.,renswoude,0.1
 Neer.,neer,0.2
 Krimpen aan de Lek.,krimpen aan de lek,0.05263157894736842
@@ -373,10 +376,10 @@ Lekkerland (Nieuw-),lemsterland,0.2727272727272727
 Ferwerderadeel.,ferwerderadeel,0.06666666666666667
 Vledder.,vledder,0.125
 Oijen en Teeffelen.,oijen en teeffelen,0.05263157894736842
-Nederhorst den Berg.,nederhorst den berg,0.05
-Winsum.,winsum,0.14285714285714285
+Witten,wittem,0.16666666666666666
+Schoten.,schoten,0.125
 Warmenhuizen.,warmenhuizen,0.07692307692307693
-Vollenhove (Stad).,vollenhove,0.0
+Oud Valkenburg,oud-valkenburg,0.07142857142857142
 Nieuwerkerk.,nieuwerkerk,0.08333333333333333
 Charlois.,charlois,0.1111111111111111
 Urk.,urk,0.25
@@ -389,10 +392,13 @@ Barradeel.,barradeel,0.1
 Dwingelo.,dwingeloo,0.1111111111111111
 Wedde.,wedde,0.16666666666666666
 Kapelle a/d IJsel,capelle aan den ijssel,0.3181818181818182
+Odili√´nberg.,sint odiliënberg,0.5
 Haps.,haps,0.2
 Meliskerke.,meliskerke,0.09090909090909091
 Amstenrade.,amstenrade,0.09090909090909091
 Berg,bergh,0.2
+Vlaardingen.,vlaardingen,0.08333333333333333
+'s Hertogenbosch,s hertogenbosch,0.0625
 Hilligersberg,hillegersberg,0.07692307692307693
 Nijeveen.,nijeveen,0.1111111111111111
 Doetinchem (Ambt-) (Geene kom),doetinchem,0.0
@@ -420,9 +426,8 @@ Obbicht en Papenhoven.,obbicht en papenhoven,0.045454545454545456
 Lochem.,lochem,0.14285714285714285
 Slenaken.,slenaken,0.1111111111111111
 Zandvoort.,zandvoort,0.1
-Poortugal,poortugaal,0.1
 Pijnacker.,pijnacker,0.1
-Zontelande,zoutelande,0.1
+Haskerland.,haskerland,0.09090909090909091
 Hulsberg.,hulsberg,0.1111111111111111
 Hooge-Mierde c.a.,made c.a.,0.5294117647058824
 Rosendaal c.a.,rosendaal,0.35714285714285715
@@ -435,7 +440,7 @@ Alphen.,alphen,0.14285714285714285
 Zevenhoven.,zevenhoven,0.09090909090909091
 Dommelen.,dommelen,0.1111111111111111
 Opperdoes.,opperdoes,0.1
-Bierum.,bierum,0.14285714285714285
+Broeksittard.,broeksittard,0.07692307692307693
 Aalten.,aalten,0.14285714285714285
 Langbroek.,langbroek,0.1
 Berg en Terbijt,berg en terblijt,0.0625
@@ -446,7 +451,7 @@ Kuilenburg,culenborg,0.3
 Bladel c.a.,bakel c.a.,0.18181818181818182
 Borculo.,borculo,0.125
 St. Philipsland,sint philipsland,0.1875
-Nibbixwoud.,nibbixwoud,0.09090909090909091
+Loenersloot.,loenersloot,0.08333333333333333
 St. Anna ter Muiden,sint anna ter muiden,0.15
 Heilo,heiloo,0.16666666666666666
 Balgoij.,balgoij,0.125
@@ -459,7 +464,8 @@ Badel,bladel,0.16666666666666666
 Ridderkerk.,ridderkerk,0.09090909090909091
 Lonneker.,lonneker,0.1111111111111111
 Broekhuijsen.,broekhuijsen,0.07692307692307693
-Wilnis.,wilnis,0.14285714285714285
+Grootebroek.,grootebroek,0.08333333333333333
+Almkerk en Uitwijk.,empel en meerwijk,0.5263157894736842
 Bielswijk,bleiswijk,0.2222222222222222
 Kerkrade.,kerkrade,0.1111111111111111
 Enkhuizen.,enkhuizen,0.1
@@ -469,14 +475,13 @@ Willige-Langerak (Geene kom),willige langerak,0.0625
 Cromvoirt.,cromvoirt,0.1
 Ossenisse.,ossenisse,0.1
 Akersloot.,akersloot,0.1
-Schermerhorn.,schermerhorn,0.07692307692307693
+Gilze c.a.,mill c.a.,0.3
 Abcoude Baambrugge.,abcoude-baambrugge,0.10526315789473684
 Maurik.,maurik,0.14285714285714285
 Wadenoijen (Geene kom),wadenoijen,0.0
 Nuland.,nuland,0.14285714285714285
 Diepenheim.,diepenheim,0.09090909090909091
 Aarle Rixtel.,aarle-rixtel,0.15384615384615385
-Hoogkarspel.,hoogkarspel,0.08333333333333333
 Schipluiden.,schipluiden,0.08333333333333333
 Weert.,weert,0.16666666666666666
 Nieuwveen.,nieuwveen,0.1
@@ -491,25 +496,22 @@ Vlagtwedde.,vlagtwedde,0.09090909090909091
 Nieuw- en St. Joostland,nieuw- en sint joosland,0.17391304347826086
 Zuidbroek.,zuidbroek,0.1
 Epe.,epe,0.25
-Angerlo.,angerlo,0.125
+Beugen,bergen,0.16666666666666666
 Zuid- en Noordschermer.,zuid- en noord-schermer,0.08695652173913043
 Luiksgestel,luijksgestel,0.08333333333333333
 s Heer Abtskerke,'s-heer abtskerke,0.11764705882352941
 Hoogeveen.,hoogeveen,0.1
 St. Pieter.,sint pieter,0.36363636363636365
-Renen,rhenen,0.16666666666666666
+'s Heer-Abtskerke.,'s-heer abtskerke,0.16666666666666666
 Rheden.,rheden,0.14285714285714285
 Geul,geulle,0.3333333333333333
 Wijngaarden.,wijngaarden,0.08333333333333333
-West-Stellingwerf.,weststellingwerf,0.1111111111111111
-Koudekerk.,koudekerke,0.1
 Dreumel (Geene kom),dreumel,0.0
 Bakel en Milheeze.,bakel en milheeze,0.05555555555555555
 Herkenbosch en Melick.,herwen en aerdt,0.5454545454545454
 IJerseke,yerseke,0.25
 Zutphen.,zutphen,0.125
 Nijkerk.,nijkerk,0.125
-s Heer-Arendskerke.,'s-heer arendskerke,0.21052631578947367
 Lienden.,lienden,0.125
 Colijnsplaat.,colijnsplaat,0.07692307692307693
 Rijp.,zijpe,0.4
@@ -547,7 +549,7 @@ Middelburg (Vervolg),middelburg,0.0
 Bergambacht.,bergambacht,0.08333333333333333
 Hoevelaken.,hoevelaken,0.09090909090909091
 Nunhem.,nunhem,0.14285714285714285
-Alblas (Oud-).,oud-alblas,0.4
+Dalfsen.,dalfsen,0.125
 Ewijk.,ewijk,0.16666666666666666
 Herpen.,herpen,0.14285714285714285
 Stoppeldijk.,stoppeldijk,0.08333333333333333
@@ -565,7 +567,7 @@ Sevenum.,sevenum,0.125
 Beusichem.,beusichem,0.1
 Beuningen (Geene kom),beuningen,0.0
 Hontenisse.,hontenisse,0.09090909090909091
-Vlaardingen.,vlaardingen,0.08333333333333333
+Hoogkarspel.,hoogkarspel,0.08333333333333333
 Overasselt.,overasselt,0.09090909090909091
 Duivendijke.,duivendijke,0.08333333333333333
 Pancras (St.).,sint pancras,0.4166666666666667
@@ -575,7 +577,7 @@ Venraij.,venray,0.375
 Halsteren.,halsteren,0.1
 Ellemeet.,ellemeet,0.1111111111111111
 Twisk.,twisk,0.16666666666666666
-Putten.,putten,0.14285714285714285
+Weerselo.,weerselo,0.1111111111111111
 Wanssum.,wanssum,0.125
 Duizel en Steensel (geene kom),duizel en steensel,0.0
 Sambeek.,sambeek,0.125
@@ -594,6 +596,7 @@ Drenthe.,dronten,0.375
 Dodewaard (Geene kom),dodewaard,0.0
 Nuth.,nuth,0.2
 Doesburg.,doesburg,0.1111111111111111
+√Üngwirden,aengwirden,0.2
 Sittard.,sittard,0.125
 Nieuwkoop.,nieuwkoop,0.1
 Delft.,delft,0.16666666666666666
@@ -606,22 +609,21 @@ Ouddorp.,ouddorp,0.125
 Ambt-Vollenhove,ambt vollenhove,0.06666666666666667
 Wijk (de),ewijk,0.2
 Loosdrecht.,loosdrecht,0.09090909090909091
-s Gravenhage.,'s-gravenhage,0.23076923076923078
 Aar (ter).,maarn,0.4
 Simpelveld.,simpelveld,0.09090909090909091
 Doetichem,doetinchem,0.1
 "Berkel, Enschot en Huyclom.",berkel-enschot,0.5185185185185185
-Anna-Paulowna,anna paulowna,0.07692307692307693
+Deil.,deil,0.2
 Boxtel.,boxtel,0.14285714285714285
 Wamel.,wamel,0.16666666666666666
 Sprang.,sprang,0.14285714285714285
 Krabbendijke.,krabbendijke,0.07692307692307693
-Noorbeek.,noorbeek,0.1111111111111111
+Stad aan 't Haringvliet.,stad aan 't haringvliet,0.041666666666666664
 Tholen.,tholen,0.14285714285714285
 Bildt (De),biert,0.4
 Duizel,huizen,0.3333333333333333
 Gronsfeld.,gronsfeld,0.1
-Dordrecht.,dordrecht,0.1
+Havelte.,havelte,0.125
 Zoetermeer.,zoetermeer,0.09090909090909091
 Callantsoog.,callantsoog,0.08333333333333333
 Scherpenisse.,scherpenisse,0.07692307692307693
@@ -639,11 +641,13 @@ Rijp (De),strijp,0.3333333333333333
 Hoogezand.,hoogezand,0.1
 Wervershoof.,wervershoof,0.08333333333333333
 Oudepekela.,oude pekela,0.18181818181818182
-Oosterland.,oosterland,0.09090909090909091
+Rilland en Maire.,rilland en bath,0.29411764705882354
 Snelrewaard.,snelrewaard,0.08333333333333333
+Buren.,buren,0.16666666666666666
 Noorddijk.,noorddijk,0.1
 Bemmel.,bemmel,0.14285714285714285
 Andijk.,andijk,0.14285714285714285
+'s Gravendeel,'s-gravendeel,0.07692307692307693
 Zoelen.,zoelen,0.14285714285714285
 Heesch.,heesch,0.14285714285714285
 Wassenaar.,wassenaar,0.1
@@ -652,17 +656,17 @@ Vlijmen.,vlijmen,0.125
 Hoeven en St. Maartenspolder.,sint maartensdijk,0.5862068965517241
 Ouderijn,oudenrijn,0.1111111111111111
 Goedereede.,goedereede,0.09090909090909091
-Wormerveer.,wormerveer,0.09090909090909091
+Goudswaard.,goudswaard,0.09090909090909091
 Vught.,vught,0.16666666666666666
 Kamerik.,kamerik,0.125
 Lekkerland (Nieuw.).,lemsterland,0.2727272727272727
-Vaals.,vaals,0.16666666666666666
+'t Zandt.,'t zandt,0.1111111111111111
 Nederhemert.,nederhemert,0.08333333333333333
 Beugen c.a.,megen c.a.,0.18181818181818182
 Raalte.,raalte,0.14285714285714285
 Edam.,edam,0.2
 Zes Gehuchten.,zesgehuchten,0.14285714285714285
-Nigtevecht.,nigtevecht,0.09090909090909091
+Barsingerhorn.,barsingerhorn,0.07142857142857142
 Houten.,houten,0.14285714285714285
 Aar (Ter),maarn,0.4
 Oegstgeest.,oegstgeest,0.09090909090909091
@@ -671,16 +675,17 @@ Denekamp.,denekamp,0.1111111111111111
 "Hemelumer, Oldephaert en Noordwolde.",hemelumer oldephaert en noordwolde,0.05555555555555555
 Harenkarspel.,harenkarspel,0.07692307692307693
 Meeuwen c.a.,megen c.a.,0.25
-Millingen.,millingen,0.1
+Uitgeest.,uitgeest,0.1111111111111111
 Numansdorp.,numansdorp,0.09090909090909091
-Hengelo.,hengelo,0.125
+Noordwijkerhout.,noordwijkerhout,0.0625
 Medemblik.,medemblik,0.1
 Aalst.,aalst,0.16666666666666666
 "Alem, Maren en Kessel.","alem, maren en kessel",0.045454545454545456
-Reek.,reek,0.2
+Hoorn.,hoorn,0.16666666666666666
 Alblas- (Oud),oud-alblas,0.5
 Delfshaven.,delfshaven,0.09090909090909091
-Moercapelle.,moerkapelle,0.16666666666666666
+Aalsmeer.,aalsmeer,0.1111111111111111
+'s Graveland,'s-graveland,0.08333333333333333
 Ruinen.,ruinen,0.14285714285714285
 Hoofdplaat.,hoofdplaat,0.09090909090909091
 Weel,wehl,0.25
@@ -689,8 +694,9 @@ Menaldumadeel Vervolg,menaldumadeel,0.38095238095238093
 Vessem c.a. (Geene kom),gestel c.a.,0.2727272727272727
 Borgharen.,borgharen,0.1
 Abcoude Proostdij,abcoude-proostdij,0.058823529411764705
+Princenhage.,princenhage,0.08333333333333333
 Vessem c.a.,gestel c.a.,0.2727272727272727
-Obdam.,obdam,0.16666666666666666
+Meerlo.,meerlo,0.14285714285714285
 Stiphout.,stiphout,0.1111111111111111
 Uithoorn.,uithoorn,0.1111111111111111
 Benthuizen.,benthuizen,0.09090909090909091
@@ -708,6 +714,7 @@ Laagnieuwkoop,laag-nieuwkoop,0.07142857142857142
 Lisse.,lisse,0.16666666666666666
 Marken.,marken,0.14285714285714285
 Katwijk.,katwijk,0.125
+'s Gravenpolder.,'s-gravenpolder,0.125
 Koedijk.,koedijk,0.125
 Wonseradeel (Vervolg),wonseradeel,0.0
 Koewacht.,koewacht,0.1111111111111111
@@ -715,17 +722,17 @@ Wieringen.,wieringen,0.1
 Bruinisse.,bruinisse,0.1
 Weesperkarspel.,weesperkarspel,0.06666666666666667
 Rolde.,rolde,0.16666666666666666
-Wijdewormer.,wijdewormer,0.08333333333333333
+Oosterhout.,oosterhout,0.09090909090909091
 Hardenberg (Stad).,hardenberg,0.0
 Gorssel.,gorssel,0.125
 Willeskop (Geene kom),willeskop,0.0
 Mook,hoek,0.5
+'s Gravenmoer,'s-gravenmoer,0.07692307692307693
 s Gravenhage,'s-gravenhage,0.15384615384615385
 Zuijlen,zuilen,0.14285714285714285
 Tonge (Oude-),dongen,0.3333333333333333
 Westerhoven.,westerhoven,0.08333333333333333
-s Heer-Abtskerke.,'s-heer abtskerke,0.23529411764705882
-Lopik.,lopik,0.16666666666666666
+Valburg.,valburg,0.125
 Waarder.,waarder,0.125
 Vlist.,vlist,0.16666666666666666
 Kruiningen.,kruiningen,0.09090909090909091
@@ -733,10 +740,8 @@ Strijen.,strijen,0.125
 Zwartewaal.,zwartewaal,0.09090909090909091
 Ellewoutsdijk.,ellewoutsdijk,0.07142857142857142
 "Dieden, Demen en Langel.","dieden, demen en langel",0.041666666666666664
-Culemborg.,culemborg,0.1
 Westbroek (Geene kom),westbroek,0.0
 Idaarderadeel.,idaarderadeel,0.07142857142857142
-s Gravemoer.,s gravemoer,0.08333333333333333
 Posthoek.,polsbroek,0.4444444444444444
 Zalk,balk,0.25
 Biggekerke.,biggekerke,0.09090909090909091
@@ -754,23 +759,23 @@ Finsterwolde.,finsterwolde,0.07692307692307693
 Oud Vosmeer,oud-vossemeer,0.23076923076923078
 Veldhoven en Meereveldhoven.,veldhoven en meerveldhoven,0.07142857142857142
 Waardenburg.,waardenburg,0.08333333333333333
+'s Gravendeel.,'s-gravendeel,0.14285714285714285
 Philippine.,philippine,0.09090909090909091
-Stad aan 't Haringvliet.,stad aan 't haringvliet,0.041666666666666664
+Noorbeek.,noorbeek,0.1111111111111111
 Rijsen,rijssen,0.14285714285714285
 Rhijnsburg.,rhijnsburg,0.09090909090909091
 Deursen en Dennenburg.,deursen en dennenburg,0.045454545454545456
 Raasdorp.,ransdorp,0.2222222222222222
-Schoten.,schoten,0.125
+Winsum.,winsum,0.14285714285714285
 Snelrewaard (Geene kom),snelrewaard,0.0
 Tubbergen.,tubbergen,0.1
+label_clean,haelen,0.5454545454545454
 Odoorn.,odoorn,0.14285714285714285
 Lichtenvoorde.,lichtenvoorde,0.07142857142857142
-Eigelshoven,eijgelshoven,0.08333333333333333
 Voorburg.,voorburg,0.1111111111111111
-Oud Valkenburg,oud-valkenburg,0.07142857142857142
+Vollenhove (Stad).,vollenhove,0.0
 Stavenisse.,stavenisse,0.09090909090909091
 Goudriaan.,goudriaan,0.1
-t Bildt.,het bildt,0.3333333333333333
 Reeuwijk.,reeuwijk,0.1111111111111111
 Ambt-Hardenberg (Geene kom),ambt hardenberg,0.06666666666666667
 Hardenberg (Ambt).,hardenberg,0.0
@@ -786,17 +791,18 @@ IJlst.,ijlst,0.16666666666666666
 Geervliet.,geervliet,0.1
 Stad-Vollenhove,stad vollenhove,0.06666666666666667
 Zwammerdam.,zwammerdam,0.09090909090909091
+'s Gravenpolder,'s-gravenpolder,0.06666666666666667
 Barsingerhorn (Vervolg),barsingerhorn,0.0
 Wouw.,wouw,0.2
 Borger.,borger,0.14285714285714285
-Havelte.,havelte,0.125
+Dordrecht.,dordrecht,0.1
 Belfeld.,belfeld,0.125
 Oldenzaal.,oldenzaal,0.1
 Beijerland (Zuid-),reiderland,0.2
 Aar (Ter) (Geene kom),maarn,0.4
 Rhenen.,rhenen,0.14285714285714285
 Willige Langerak.,willige langerak,0.058823529411764705
-Weerselo.,weerselo,0.1111111111111111
+Putten.,putten,0.14285714285714285
 Lekkerland (Nieuw),lemsterland,0.2727272727272727
 Zevenbergen.,zevenbergen,0.08333333333333333
 Nieuwe Schans.,nieuweschans,0.14285714285714285
@@ -812,19 +818,16 @@ Hoedekenskerke.,hoedekenskerke,0.06666666666666667
 Vriesenveen.,vriezenveen,0.16666666666666666
 Doetinchem (Ambt).,doetinchem,0.0
 Liempde.,liempde,0.125
-Hardenberg (Stad),hardenberg,0.0
-Opmeer.,opmeer,0.14285714285714285
+Westzaan.,westzaan,0.1111111111111111
+Hoogkerk.,hoogkerk,0.1111111111111111
 Smilde.,smilde,0.14285714285714285
 Cuijk en St. Agatha.,cuijk en sint agatha,0.2
 Heino (Vervolg),heino,0.0
 Steenwijkerwold.,steenwijkerwold,0.0625
 Leusden.,leusden,0.125
 Krommenie.,krommenie,0.1
-s Heerenhoek.,'s-heerenhoek,0.23076923076923078
 Beerta.,beerta,0.14285714285714285
-Luijksgestel.,luijksgestel,0.07692307692307693
 Dinxperlo.,dinxperlo,0.1
-s Gravenmoer,s gravemoer,0.08333333333333333
 Kessel.,kessel,0.14285714285714285
 Midwolde.,midwolda,0.2222222222222222
 Reden,rheden,0.16666666666666666
@@ -843,9 +846,9 @@ Nieuwe-Pekela,nieuwe pekela,0.07692307692307693
 Naarden.,naarden,0.125
 Eelde.,eelde,0.16666666666666666
 Maartensdijk.,maartensdijk,0.07692307692307693
-Hoogkerk.,hoogkerk,0.1111111111111111
-Ewijk (Geene kom),ewijk,0.0
-Veldhuizen (Geene kom),veldhuizen,0.0
+Opmeer.,opmeer,0.14285714285714285
+Luijksgestel.,luijksgestel,0.07692307692307693
+Driewegen.,driewegen,0.1
 Sijbekarspel.,sijbekarspel,0.07692307692307693
 Muiden.,muiden,0.14285714285714285
 IJzendoorn.,ijzendoorn,0.09090909090909091
@@ -859,7 +862,7 @@ Haren.,haren,0.16666666666666666
 Amersfoort.,amersfoort,0.09090909090909091
 Lith.,lith,0.2
 Wijhe.,wijhe,0.16666666666666666
-Vlaardinger Ambacht.,vlaardinger-ambacht,0.1
+Nieuwstad,nieuwstadt,0.1
 Nut,nuth,0.25
 Berkhout.,berkhout,0.1111111111111111
 Westdorpe.,westdorpe,0.1
@@ -868,11 +871,13 @@ Monster.,monster,0.125
 Baarle-Nassau.,baarle-nassau,0.07142857142857142
 Oudorp.,oudorp,0.14285714285714285
 Ham (den).,chaam,0.4
+'s Gravezande.,'s-gravenzande,0.21428571428571427
 Leek.,leek,0.2
 Arnhem.,arnhem,0.14285714285714285
 Zuidlaren.,zuidlaren,0.1
 Eede.,eede,0.2
 s Heerenhoek,'s-heerenhoek,0.15384615384615385
+'s Heer Abtskerke,'s-heer abtskerke,0.058823529411764705
 Waddinxveen (Zuid-).,waddinxveen,0.0
 Laren.,laren,0.16666666666666666
 "Rucphen, Sprundel en Vorenseinde.","nuenen, gerwen en nederwetten",0.5757575757575758
@@ -885,14 +890,14 @@ Anlo.,anloo,0.2
 Adorp.,adorp,0.16666666666666666
 Ginneken en Bavel.,ginneken en bavel,0.05555555555555555
 Haamstede.,haamstede,0.1
-Gilze en Rijen.,gilze en rijen,0.06666666666666667
+"Nuenen, Gerwen en Nederwetten.","nuenen, gerwen en nederwetten",0.03333333333333333
 Spaubeek.,spaubeek,0.1111111111111111
 Kollumerland c.a.,oijen c.a.,0.5294117647058824
 Purmerende.,purmerend,0.18181818181818182
 Wildervank.,wildervank,0.09090909090909091
 Rauwerderhem (Vervolg),rauwerderhem,0.0
 Hengelo (Over.),hengelo,0.0
-Doorn.,doorn,0.16666666666666666
+Zuidhorn.,zuidhorn,0.1111111111111111
 Tilburg.,tilburg,0.125
 Pieter (ST). (Geen kom),diever,0.3333333333333333
 Piershil.,piershil,0.1111111111111111
@@ -900,22 +905,23 @@ Doetinchem (Stad-),doetinchem,0.0
 Alkemade.,alkemade,0.1111111111111111
 Horssen.,horssen,0.125
 Klaaswaal.,klaaswaal,0.1
-Kesteren.,kesteren,0.1111111111111111
+St. Michielsgestel.,st. michiels-gestel,0.10526315789473684
 Nieuwland.,nieuwland,0.1
 IJsselmonde.,ijsselmonde,0.08333333333333333
 Noordwelle.,noordwelle,0.09090909090909091
 Nieuwleusen (Geene kom),nieuwleusen,0.0
 Katendrecht.,katendrecht,0.08333333333333333
 Maassluis.,maassluis,0.1
-Zes Gehuchten,zesgehuchten,0.07692307692307693
+Groenlo.,groenlo,0.125
 Neederweert,nederweert,0.09090909090909091
-Achttienhoven.,achttienhoven,0.07142857142857142
-Nieuwstad,nieuwstadt,0.1
+St. Laurens,sint laurens,0.25
+Vlaardinger Ambacht.,vlaardinger-ambacht,0.1
 Schaesberg.,schaesberg,0.09090909090909091
 Bokhoven.,bokhoven,0.1111111111111111
 Hoog-Blokland.,hoogblokland,0.14285714285714285
+'s Gravenhage.,'s-gravenhage,0.14285714285714285
 Bellingewolde.,bellingwolde,0.14285714285714285
-Jutphaas.,jutphaas,0.1111111111111111
+Brouwershaven.,brouwershaven,0.07142857142857142
 Krimpen a/d IJssel,krimpen aan den ijssel,0.22727272727272727
 Westwoud.,westwoud,0.1111111111111111
 Maarheeze.,maarheeze,0.1
@@ -944,14 +950,15 @@ Arnemuiden.,arnemuiden,0.09090909090909091
 Blokker.,blokker,0.125
 Giessen Nieuwkerk.,giessen-nieuwkerk,0.1111111111111111
 Giessen.,giessen,0.125
-Zeelst.,zeelst,0.14285714285714285
+Son.,sonnega,0.5714285714285714
 Delden (Stad).,delden,0.0
 Nieuwerkerk aan den IJssel.,nieuwerkerk aan den ijssel,0.037037037037037035
+'s Heer-Arendskerke.,'s-heer arendskerke,0.15
 Veere.,veere,0.16666666666666666
 Zuiddorpe.,zuiddorpe,0.1
 Thorn.,thorn,0.16666666666666666
 Nistelrode.,nistelrode,0.09090909090909091
-Vollenhove (Stad),vollenhove,0.0
+Abbekerk.,abbekerk,0.1111111111111111
 Oudenbosch.,oudenbosch,0.09090909090909091
 Loppersum.,loppersum,0.1
 Landsmeer.,landsmeer,0.1
@@ -959,9 +966,9 @@ Doetinchem (Ambt),doetinchem,0.0
 Achterkarspelen.,achtkarspelen,0.1875
 Oostkapelle.,oostkapelle,0.08333333333333333
 Vianen.,vianen,0.14285714285714285
-St. Pieter,sint pieter,0.2727272727272727
+Beek.,beek,0.2
 Maarsseveen.,maarsseveen,0.08333333333333333
-Stramproij.,stramproy,0.2727272727272727
+Broek op Langedijk.,broek op langedijk,0.05263157894736842
 Zevenaar.,zevenaar,0.1111111111111111
 Wijk c.a.,cuijk c.a.,0.2
 Egmond binnen (Vervolg),egmond-binnen,0.07692307692307693
@@ -970,10 +977,9 @@ Alphen c.a.,alem c.a.,0.2727272727272727
 Posterholt.,posterholt,0.09090909090909091
 Maarssen.,maarssen,0.1111111111111111
 Valkenswaard.,valkenswaard,0.07692307692307693
-Kerkwerve.,kerkwerve,0.1
+Sint Paneras,sint pancras,0.08333333333333333
 Diepenveen.,diepenveen,0.09090909090909091
 Voorschoten.,voorschoten,0.08333333333333333
-Margraten.,margraten,0.1
 Winterswijk.,winterswijk,0.08333333333333333
 Oost- en West-Souburg.,oost- en west-souburg,0.045454545454545456
 Vleuten.,vleuten,0.125
@@ -987,14 +993,14 @@ Streefkerk.,streefkerk,0.09090909090909091
 Warmond.,warmond,0.125
 Geertruit (St.),sint geertruid,0.42857142857142855
 Kollumerland en Nieuw-Kruisland.,kollumerland en nieuwkruisland,0.0625
-Ammerstol.,ammerstol,0.1
+Engwirden,aengwirden,0.1
 Brunsum,brunssum,0.125
 Almelo (Stad).,almelo,0.0
 Lier (De),lierop,0.3333333333333333
 Borssele.,borssele,0.1111111111111111
-Grijpskerk.,grijpskerk,0.09090909090909091
+Katwoude.,katwoude,0.1111111111111111
 Son,horn,0.5
-Zevenhuizen.,zevenhuizen,0.08333333333333333
+Herkenbosch en Melick,herwen en aerdt,0.5238095238095238
 Lexmond.,lexmond,0.125
 Oudkarspel.,oudkarspel,0.09090909090909091
 Zieriksee,zierikzee,0.1111111111111111
@@ -1005,23 +1011,26 @@ Ouderkerk aan den IJssel.,ouderkerk aan den ijssel,0.04
 Hoornaar.,hoornaar,0.1111111111111111
 Zuijlen.,zuilen,0.25
 Ommen (Stad).,ommen,0.0
+Groningen.,groningen,0.1
 Hagestein.,hagestein,0.1
 Ohe en Laak,ohé en laak,0.09090909090909091
-Ottersum.,ottersum,0.1111111111111111
+Os,oss,0.3333333333333333
+Vaals.,vaals,0.16666666666666666
 Finsterwold,finsterwolde,0.08333333333333333
 Gramsbergen.,gramsbergen,0.08333333333333333
 Maasbree.,maasbree,0.1111111111111111
 Grootegast.,grootegast,0.09090909090909091
 Staphorst (Geene kom),staphorst,0.0
 Maasniel.,maasniel,0.1111111111111111
-Weerd,weert,0.2
+Eijsden.,eijsden,0.125
 Noordeloos.,noordeloos,0.09090909090909091
-Witten,wittem,0.16666666666666666
+Nederhorst den Berg.,nederhorst den berg,0.05
 Dinther.,dinther,0.125
 Wolfaartsdijk,wolphaartsdijk,0.14285714285714285
 Doetinchem (Stad).,doetinchem,0.0
 Vrijhoeve Capel.,vrijhoeve-capelle,0.17647058823529413
 Nieuwe Niedorp.,nieuwe niedorp,0.06666666666666667
+'s Gravenhage,'s-gravenhage,0.07692307692307693
 Doetinchem (Stad),doetinchem,0.0
 Hoenkoop.,hoenkoop,0.1111111111111111
 Rauwerderhem.,rauwerderhem,0.07692307692307693
@@ -1029,17 +1038,17 @@ Bunde.,bunde,0.16666666666666666
 Mierlo.,mierlo,0.14285714285714285
 Hillegersberg.,hillegersberg,0.07142857142857142
 St. Maarten,sint maarten,0.25
-Broeksittard.,broeksittard,0.07692307692307693
+Bierum.,bierum,0.14285714285714285
 Hindelopen.,hindeloopen,0.18181818181818182
 Berlicum en Middelrode.,arcen en velden,0.5652173913043478
-Grootebroek.,grootebroek,0.08333333333333333
+Wilnis.,wilnis,0.14285714285714285
 Bennebroek.,bennebroek,0.09090909090909091
 Delden (Stad),delden,0.0
 Oostburg.,oostburg,0.1111111111111111
 Renkum.,renkum,0.14285714285714285
 Geul.,geulle,0.3333333333333333
 St. Kruis,sint kruis,0.3
-Ede.,ede,0.25
+Koudekerk.,koudekerke,0.1
 Stompwijk.,stompwijk,0.1
 Rijckholt.,rijckholt,0.1
 Blankenham (Geene kom),blankenham,0.0
@@ -1053,9 +1062,9 @@ Breskens.,breskens,0.1111111111111111
 Weesp.,weesp,0.16666666666666666
 Kwadijk.,kwadijk,0.125
 Beuningen.,beuningen,0.1
-Barsingerhorn.,barsingerhorn,0.07142857142857142
+Nigtevecht.,nigtevecht,0.09090909090909091
+'s Gravesande,s gravesande,0.07692307692307693
 Oud-Vroenhoven.,oud-vroenhoven,0.06666666666666667
-Gent.,gendt,0.4
 Westkapelle.,westkapelle,0.08333333333333333
 Giethoorn.,giethoorn,0.1
 Heijthuizen,hefshuizen,0.2727272727272727
@@ -1065,26 +1074,26 @@ Nieuwkuik en Onsenoort.,nieuwe niedorp,0.5217391304347826
 Schoonhoven.,schoonhoven,0.08333333333333333
 Lindt (Groote),linden,0.3333333333333333
 Zweelo,zweeloo,0.14285714285714285
-Enschedé,enschede,0.125
 Wadenoijen.,wadenoijen,0.09090909090909091
 Oudenrhijn.,oudenrijn,0.18181818181818182
 Middelburg.,middelburg,0.09090909090909091
 Avenhorn.,avenhorn,0.1111111111111111
 Kapelle.,kapelle,0.125
 Maartensdijk (St.),maartensdijk,0.0
-Almkerk en Uitwijk.,empel en meerwijk,0.5263157894736842
+Reek.,reek,0.2
 Waalwijk.,waalwijk,0.1111111111111111
 Neede.,neede,0.16666666666666666
-Meerlo.,meerlo,0.14285714285714285
+Obdam.,obdam,0.16666666666666666
 Vlodrop.,vlodrop,0.125
 Odijk.,odijk,0.16666666666666666
 Boschkapelle.,boschkapelle,0.07692307692307693
 Werken,wierden,0.2857142857142857
+Lier (de),lierop,0.3333333333333333
 Nieuwenhoorn.,nieuwenhoorn,0.07692307692307693
 Marum.,marum,0.16666666666666666
 Aduard.,aduard,0.14285714285714285
 Wormer.,wormer,0.14285714285714285
-Haskerland.,haskerland,0.09090909090909091
+Zontelande,zoutelande,0.1
 Leende.,leende,0.14285714285714285
 Schaijk.,schaijk,0.125
 IJzendijke.,ijzendijke,0.09090909090909091
@@ -1098,13 +1107,14 @@ Wessum,wessem,0.16666666666666666
 Waarde.,waarde,0.14285714285714285
 Nootdorp.,nootdorp,0.1111111111111111
 Herpt en Bern.,herwen en aerdt,0.4
+'t Bildt.,het bildt,0.3333333333333333
 Zwalmen,swalmen,0.14285714285714285
 Kedichem.,kedichem,0.1111111111111111
 Norg.,norg,0.2
 Blokzijl.,blokzijl,0.1111111111111111
 Lemsterland.,lemsterland,0.08333333333333333
 Driebergen.,driebergen,0.09090909090909091
-"Nuenen, Gerwen en Nederwetten.","nuenen, gerwen en nederwetten",0.03333333333333333
+Baexem.,baexem,0.14285714285714285
 Kattendijke.,kattendijke,0.08333333333333333
 Hurwenen.,hurwenen,0.1111111111111111
 Dalen.,dalen,0.16666666666666666
@@ -1113,41 +1123,41 @@ Polsbroek.,polsbroek,0.1
 Haarlem.,haarlem,0.125
 Arkel.,arkel,0.16666666666666666
 Papendrecht.,papendrecht,0.08333333333333333
-Tonge (Nieuwe-),dongen,0.3333333333333333
+Cadier en Keer.,cadier en keer,0.06666666666666667
 Loenen.,loenen,0.14285714285714285
 Ambt-Almelo (Geene kom),ambt almelo,0.09090909090909091
 Vries.,vries,0.16666666666666666
-Uitgeest.,uitgeest,0.1111111111111111
+Millingen.,millingen,0.1
 Besoijen.,besoijen,0.1111111111111111
 Zijpe (De),zijpe,0.0
 Venraij,venray,0.2857142857142857
 Barneveld.,barneveld,0.1
 Noordbrabant.,noordbroek,0.46153846153846156
-St. Michielsgestel.,st. michiels-gestel,0.10526315789473684
+Kesteren.,kesteren,0.1111111111111111
 Oude-Niedorp,oude niedorp,0.08333333333333333
 Ermelo.,ermelo,0.14285714285714285
 St. Jansteen,sint jansteen,0.23076923076923078
 Arenhorn,avenhorn,0.125
+'s Graveland.,'s-graveland,0.15384615384615385
 Wetsdongeradeel,westdongeradeel,0.13333333333333333
 Ravenstein.,ravenstein,0.09090909090909091
 Bedum.,bedum,0.16666666666666666
 Terheijden.,terheijden,0.09090909090909091
 Vier Polders.,vierpolders,0.15384615384615385
-Noordwijkerhout.,noordwijkerhout,0.0625
+Gent.,gendt,0.4
 Stad-Hardenberg,stad hardenberg,0.06666666666666667
 Rijp,strijp,0.3333333333333333
-Odiliënberg.,sint odiliënberg,0.375
 Kloetinge.,kloetinge,0.1
 Vlist (Geene kom),vlist,0.0
 Meijel.,meijel,0.14285714285714285
 Ouwerkerk.,ouwerkerk,0.1
-Groenlo.,groenlo,0.125
+Zes Gehuchten,zesgehuchten,0.07692307692307693
 Gorinchem.,gorinchem,0.1
 Cats,kats,0.25
 Schagen.,schagen,0.125
 Ambij.,ameide,0.5
 Bleskensgraaf en Hofwegen.,bleskensgraaf en hofwegen,0.038461538461538464
-Sleen.,sleen,0.16666666666666666
+Kortgene.,kortgene,0.1111111111111111
 Budel.,budel,0.16666666666666666
 Horn.,horn,0.2
 Asperen.,asperen,0.125
@@ -1157,15 +1167,14 @@ Westerbork.,westerbork,0.09090909090909091
 Mijdrecht.,mijdrecht,0.1
 Borne.,borne,0.16666666666666666
 Dongen.,dongen,0.14285714285714285
-Ængwirden,aengwirden,0.2
+Sleen.,sleen,0.16666666666666666
 Noordholland.,noordwolde,0.38461538461538464
-St. Laurens,sint laurens,0.25
+Achttienhoven.,achttienhoven,0.07142857142857142
 Oud- en Nieuw-Gastel.,oud- en nieuw-gastel,0.047619047619047616
 Ittervoort.,ittervoort,0.09090909090909091
 Schore.,schore,0.14285714285714285
 Maarn (Geene kom),maarn,0.0
-s Gravenpolder.,'s-gravenpolder,0.2
-Houthem.,houthem,0.125
+Grafhorst.,grafhorst,0.1
 Zegveld.,zegveld,0.125
 Steenbergen.,steenbergen,0.08333333333333333
 Overschie.,overschie,0.1
@@ -1177,13 +1186,13 @@ St. Maarten.,sint maarten,0.3333333333333333
 Rijsenburg.,rijsenburg,0.09090909090909091
 Noordgouwe.,noordgouwe,0.09090909090909091
 Nieuweniedorp,nieuwe niedorp,0.07142857142857142
-Woensel en Eckart.,woensel c.a.,0.3888888888888889
+Termunten.,termunten,0.1
 Haaksbergen.,haaksbergen,0.08333333333333333
 Linschoten.,linschoten,0.09090909090909091
 Wolphaartskerke,wolphaartsdijk,0.26666666666666666
 St. Anna ter Muiden.,sint anna ter muiden,0.2
 Waterlandkerkje.,waterlandkerkje,0.0625
-Maastricht.,maastricht,0.09090909090909091
+Beesel.,beesel,0.14285714285714285
 Zoutelande.,zoutelande,0.09090909090909091
 Zierikzee.,zierikzee,0.1
 Putte.,putte,0.16666666666666666
@@ -1199,14 +1208,12 @@ Schoorl.,schoorl,0.125
 Broek in Waterland.,broek in waterland,0.05263157894736842
 Markelo.,markelo,0.125
 Neuzen.,neuzen,0.14285714285714285
-Loenersloot.,loenersloot,0.08333333333333333
+Nibbixwoud.,nibbixwoud,0.09090909090909091
 Ham (den),chaam,0.4
-s Gravezande.,s gravesande,0.15384615384615385
 Mijnsheerenland.,mijnsheerenland,0.0625
-Wissenkerke.,wissenkerke,0.08333333333333333
+Hoogemierde,hoogelande,0.36363636363636365
 Lekkerkerk.,lekkerkerk,0.09090909090909091
 Hunsel.,hunsel,0.14285714285714285
-St. Odiliënberg.,sint odiliënberg,0.25
 Wijlre.,wijlre,0.14285714285714285
 Warffum.,warffum,0.125
 Wierden.,wierden,0.125
@@ -1215,7 +1222,7 @@ Leusden (Geene kom),leusden,0.0
 Udenhout.,udenhout,0.1111111111111111
 Dinteloord en Prinsland.,dinteloord en prinsenland,0.12
 Kralingen.,kralingen,0.1
-s Graveland.,s gravesande,0.16666666666666666
+Ritthem.,ritthem,0.125
 Vinkeveen en Waverveen.,vinkeveen en waverveen,0.043478260869565216
 de Werken en Sleeuwijk.,de werken en sleeuwijk,0.043478260869565216
 Hazerswoude.,hazerswoude,0.08333333333333333
@@ -1226,13 +1233,15 @@ Brunssum.,brunssum,0.1111111111111111
 Middelharnis.,middelharnis,0.07692307692307693
 Midwolde,midwolda,0.125
 Dokkum.,dokkum,0.14285714285714285
-Tegelen.,tegelen,0.125
+Oldekerk.,oldekerk,0.1111111111111111
 Veghel.,veghel,0.14285714285714285
 Zoeterwoude.,zoeterwoude,0.08333333333333333
+St. Odili√´nberg,sint odiliënberg,0.3125
 Willeskop.,willeskop,0.1
 Ammerzoden.,ammerzoden,0.09090909090909091
 Opsterland.,opsterland,0.09090909090909091
 Winschoten.,winschoten,0.09090909090909091
+'t Bildt,het bildt,0.2222222222222222
 Borkel,boekel,0.16666666666666666
 Zwaluwe,zwolle,0.42857142857142855
 Capelle aan den IJssel.,capelle aan den ijssel,0.043478260869565216
@@ -1240,9 +1249,9 @@ Tull en 't Waal (Geene kom),tull en 't waal,0.0
 Everdingen.,everdingen,0.09090909090909091
 Nieuwe-Schans,nieuweschans,0.07692307692307693
 Aengwirden.,aengwirden,0.09090909090909091
-Standaarbuiten.,standdaarbuiten,0.13333333333333333
+Stevensweert.,stevensweert,0.07692307692307693
 Abbenbroek.,abbenbroek,0.09090909090909091
-Oeffelt.,oeffelt,0.125
+Monnikendam.,monnikendam,0.08333333333333333
 Eenrum.,eenrum,0.14285714285714285
 Huizen.,huizen,0.14285714285714285
 Barendrecht (Oost- en West-).,barendrecht,0.0
@@ -1279,17 +1288,18 @@ Dodewaard.,dodewaard,0.1
 Zuidholland.,zuidland,0.3333333333333333
 Kloosterburen.,kloosterburen,0.07142857142857142
 Overslag.,overslag,0.1111111111111111
-Grafhorst.,grafhorst,0.1
+Houthem.,houthem,0.125
+Ewijk (Geene kom),ewijk,0.0
 Nieuwenhagen.,nieuwenhagen,0.07692307692307693
 Montfort.,montfort,0.1111111111111111
 Ankeveen.,ankeveen,0.1111111111111111
 Bergenopzoom,bergen op zoom,0.14285714285714285
-Groningen.,groningen,0.1
+Broek.,broek,0.16666666666666666
 Doniawerstal.,doniawerstal,0.07692307692307693
 Hoogland (Geene kom),hoogland,0.0
 Avereest (Geene kom),avereest,0.0
+Gilze en Rijen.,gilze en rijen,0.06666666666666667
 Rijekholt.,rijckholt,0.2
-s Gravendeel.,'s-gravendeel,0.23076923076923078
 Leerdam.,leerdam,0.125
 Nieuwkuik,nieuwkuyk,0.1111111111111111
 Hoogvliet.,hoogvliet,0.1
@@ -1303,23 +1313,24 @@ Scherpenzeel.,scherpenzeel,0.07692307692307693
 Schoonrewoerd.,schoonrewoerd,0.07142857142857142
 Egmond binnen,egmond-binnen,0.07692307692307693
 Heemstede.,heemstede,0.1
+Hengelo.,hengelo,0.125
 Nieuw- en St. Joostland.,nieuw- en sint joosland,0.20833333333333334
 Arcen en Velden.,arcen en velden,0.0625
 Leerbroek.,leerbroek,0.1
 Wilsum.,wilsum,0.14285714285714285
 Helle.,helden,0.3333333333333333
-Deil.,deil,0.2
+Anna-Paulowna,anna paulowna,0.07692307692307693
 Ameland.,ameland,0.125
 Bocholtz.,bocholtz,0.1111111111111111
 St. Michielsgestel,st. michiels-gestel,0.05263157894736842
-Gilze c.a.,mill c.a.,0.3
+Schermerhorn.,schermerhorn,0.07692307692307693
 Graauw,grouw,0.3333333333333333
 Sloten (Nh.),sloten,0.0
 Axel.,axel,0.2
 Utrecht.,utrecht,0.125
 Amerongen.,amerongen,0.1
-Aalsmeer.,aalsmeer,0.1111111111111111
-Termunten.,termunten,0.1
+Moercapelle.,moerkapelle,0.16666666666666666
+Woensel en Eckart.,woensel c.a.,0.3888888888888889
 Stoutenburg (Geene kom),stoutenburg,0.0
 Boosteren.,oosterend,0.2
 Oudelande.,oudelande,0.1
@@ -1329,17 +1340,19 @@ Kuinre.,kuinre,0.14285714285714285
 Sas van Gent.,sas van gent,0.07692307692307693
 Scheemda.,scheemda,0.1111111111111111
 Warder.,warder,0.14285714285714285
-Menaldumadeel.,menaldumadeel,0.07142857142857142
+Zwaag.,zwaag,0.16666666666666666
 Holten.,holten,0.14285714285714285
 Hendrik-Ido-Ambacht.,hendrik-ido-ambacht,0.05
+Haarzuilens.,haarzuilens,0.08333333333333333
 t Bildt,het bildt,0.2222222222222222
 Loonopzand,loon op zand,0.16666666666666666
 Wittem.,wittem,0.14285714285714285
-Doorwerth.,doorwerth,0.1
+Zeelst.,zeelst,0.14285714285714285
 Hardinxveld.,hardinxveld,0.08333333333333333
 Nieuw en St. Joosland,nieuw- en sint joosland,0.17391304347826086
 Ovezand,ovezande,0.125
 Hoek.,hoek,0.2
+St. Odili√´nberg.,sint odiliënberg,0.35294117647058826
 Etten c.a.,gestel c.a.,0.2727272727272727
 Jisp.,jisp,0.2
 Ottersun.,ottersum,0.2222222222222222
@@ -1349,35 +1362,35 @@ Maasdam.,maasdam,0.125
 Tiel.,tiel,0.2
 Rijnsaterwoude.,rijnsaterwoude,0.06666666666666667
 Valkenburg.,valkenburg,0.09090909090909091
-Driewegen.,driewegen,0.1
+Veldhuizen (Geene kom),veldhuizen,0.0
 Overasselt (Geene kom),overasselt,0.0
 Grathem.,grathem,0.125
 Beers.,beers,0.16666666666666666
 Waddinxveen (Zuid-),waddinxveen,0.0
 Midwoud.,midwoud,0.125
-Zuidhorn.,zuidhorn,0.1111111111111111
+Doorn.,doorn,0.16666666666666666
 Bemelen.,bemelen,0.125
-Brouwershaven.,brouwershaven,0.07142857142857142
+Jutphaas.,jutphaas,0.1111111111111111
 Huijbergen.,huijbergen,0.09090909090909091
 Kamperveen.,kamperveen,0.09090909090909091
 Druten.,druten,0.14285714285714285
 Beets.,beets,0.16666666666666666
 "Oploo, St. Anthonis en Ledeacker.","oploo, sint anthonis en ledeacker",0.12121212121212122
 Tull en 't Waal.,tull en 't waal,0.0625
-Abbekerk.,abbekerk,0.1111111111111111
+Vollenhove (Stad),vollenhove,0.0
 Oudenrijn (Geene kom),oudenrijn,0.0
 Driel.,driel,0.16666666666666666
 Heemskerk.,heemskerk,0.1
-Jabeek.,jabeek,0.14285714285714285
+Reusel.,reusel,0.14285714285714285
 Castricum.,castricum,0.1
 Rhoon.,rhoon,0.16666666666666666
-Herkenbosch en Melick,herwen en aerdt,0.5238095238095238
+Haaren.,haaren,0.14285714285714285
 Leeuwarden.,leeuwarden,0.09090909090909091
 Andel.,andel,0.16666666666666666
 Riethoven.,riethoven,0.1
 Dirksland.,dirksland,0.1
 Nieuwe Pekela.,nieuwe pekela,0.07142857142857142
-Eijsden.,eijsden,0.125
+Ede.,ede,0.25
 Beijerland (Zuid-).,reiderland,0.2
 Nieuwland (Geene kom),nieuwland,0.0
 Lierop.,lierop,0.14285714285714285
@@ -1391,7 +1404,7 @@ Ossendrecht.,ossendrecht,0.08333333333333333
 Huisseling.,huissen,0.36363636363636365
 Brielle.,brielle,0.125
 Elburg.,elburg,0.14285714285714285
-Cadier en Keer.,cadier en keer,0.06666666666666667
+Tonge (Nieuwe-),dongen,0.3333333333333333
 Slochteren.,slochteren,0.09090909090909091
 Gasselte.,gasselte,0.1111111111111111
 Ambt-Ommen,ambt ommen,0.1
@@ -1408,11 +1421,11 @@ Roermond.,roermond,0.1111111111111111
 Ruinerwold.,ruinerwold,0.09090909090909091
 s Gravendeel,'s-gravendeel,0.15384615384615385
 Zelhem.,zelhem,0.14285714285714285
-Hoogemierde,hoogelande,0.36363636363636365
+Wissenkerke.,wissenkerke,0.08333333333333333
 Itteren.,itteren,0.125
 Spaarndam.,spaarndam,0.1
 Oudenhoorn.,oudenhoorn,0.09090909090909091
-Monnikendam.,monnikendam,0.08333333333333333
+Oeffelt.,oeffelt,0.125
 Meerkerk.,meerkerk,0.1111111111111111
 Eibergen.,eibergen,0.1111111111111111
 Zwaluwe.,swalmen,0.5
@@ -1426,22 +1439,21 @@ Hoeven c.a.,oijen c.a.,0.2727272727272727
 Wolphaartsdijk.,wolphaartsdijk,0.06666666666666667
 Maasland.,maasland,0.1111111111111111
 Zuilichem.,zuilichem,0.1
-Oosterhout.,oosterhout,0.09090909090909091
+Wijdewormer.,wijdewormer,0.08333333333333333
 Tietjerksteradeel (Vervolg),tietjerksteradeel,0.0
-Beek.,beek,0.2
+St. Pieter,sint pieter,0.2727272727272727
 Diessen.,diessen,0.125
 Zwolle.,zwolle,0.14285714285714285
 Muntendam.,muntendam,0.1
-Buren.,buren,0.16666666666666666
+Culemborg.,culemborg,0.1
 Avereest.,avereest,0.1111111111111111
 Deventer.,deventer,0.1111111111111111
 Rietveld (Geene kom),rietveld,0.0
 Breukelen Nijenrode,breukelen-nijenrode,0.05263157894736842
 Vrouwenpolder.,vrouwenpolder,0.07142857142857142
 Westmaas.,westmaas,0.1111111111111111
-Broek op Langedijk.,broek op langedijk,0.05263157894736842
+Stramproij.,stramproy,0.2727272727272727
 Rijsbergen.,rijsbergen,0.09090909090909091
-Beesel.,beesel,0.14285714285714285
 Boskoop.,boskoop,0.125
 Stellendam.,stellendam,0.09090909090909091
 Limmen.,limmen,0.14285714285714285
