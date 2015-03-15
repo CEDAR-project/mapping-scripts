@@ -45,7 +45,7 @@ logging.info('Serializing similarity table...')
 with open('similarities.csv', 'w') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     for key, value in mappings.iteritems():
-        writer.writerow([key, value[0], value[1]])
+        writer.writerow([key.strip().lower(), value[0], value[1], cities[value[0]]])
 
 logging.info('Serializing AMCO mapping table...')
 with open('mappings.csv', 'w') as csvfile:
