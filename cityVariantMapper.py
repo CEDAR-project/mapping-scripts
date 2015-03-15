@@ -5,6 +5,9 @@ import logging
 import sys
 import distance
 
+# String similarity threshold
+T = 0.266666667
+
 cities = {}
 cities_to_map = []
 mappings = {}
@@ -34,7 +37,8 @@ for c1 in cities_to_map:
         if d < min_distance:
             min_distance = d
             best_match = c2
-    mappings[c1] = [best_match, min_distance]
+    if min_distance <= T:
+        mappings[c1] = [best_match, min_distance]
 #    logging.info('Best match for %s is %s with distance %s' % (c1, best_match, min_distance) )
 
 logging.info('Serializing similarity table...')
