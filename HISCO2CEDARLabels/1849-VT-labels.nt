@@ -1,0 +1,479 @@
+<http://cedar.example.org/ns#hisco-31000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regterlijke magt (ambtenaren der)" .
+<http://cedar.example.org/ns#hisco-77630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brood-, kleingoed, koek- en banketbakkers en slijters" .
+<http://cedar.example.org/ns#hisco-83190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smeden kagchel- en ander" .
+<http://cedar.example.org/ns#hisco-56010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bleekers" .
+<http://cedar.example.org/ns#hisco-77810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bierbrouwers, bierstokers" .
+<http://cedar.example.org/ns#hisco-81225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houtzaagmolenaars, houtzagers, houtkoopers" .
+<http://cedar.example.org/ns#hisco-58320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariniers en zeelieden van en boven den rang van 2den luitenant" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen kooplieden" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speldenfabrijkanten en werklieden" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gepensioneerden (burgerlijke en millitaire)" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latijnsche scholen leerlingen" .
+<http://cedar.example.org/ns#hisco-62430> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herders en veehouders" .
+<http://cedar.example.org/ns#hisco-79190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breuk- en draagbanden- keurslijvenmakers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaarkeukenhouders" .
+<http://cedar.example.org/ns#hisco-61110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grondeigenaren" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koper-, klok- en geelgieters" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasfabrijkanten" .
+<http://cedar.example.org/ns#hisco-54010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kantoor- en winkelbedienden, pakhuisknechts" .
+<http://cedar.example.org/ns#hisco-17140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren muzijkanten, muzijkmeesters, organisten" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloemisten, boomkweekers, tuiniers, warmoezeniers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaadverkoopers" .
+<http://cedar.example.org/ns#hisco-77810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bierbouwers, bierstekers" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meters (kolen-, koorn-, hooi-, hout-, scheeps- enz), wijnstekers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zandverkoopers" .
+<http://cedar.example.org/ns#hisco-77920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Olieslagers en molenaars" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Roomsch-Catholijken, pastoors, kapellaans" .
+<http://cedar.example.org/ns#hisco-77120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koornmolenaars" .
+<http://cedar.example.org/ns#hisco-92290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linieerders" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van begrafenis- en ziekenfondsen/?" .
+<http://cedar.example.org/ns#hisco-77250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suikerraffinadeurs" .
+<http://cedar.example.org/ns#hisco-74220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeepzieders" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meters (kolen-, koorn-, hout-, scheeps- enz.), wijnstekers" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschool-leerlingen" .
+<http://cedar.example.org/ns#hisco-64100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visschers" .
+<http://cedar.example.org/ns#hisco-44320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meesters (keur-, markt, waag-), afslagers" .
+<http://cedar.example.org/ns#hisco-89290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pijpenmakers" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Roomsch-Catholijken, dienstdoende personen" .
+<http://cedar.example.org/ns#hisco-95300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dekkers (lei-, pannen-, riet-)" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "IJzergieters" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Renteniers, partikulieren" .
+<http://cedar.example.org/ns#hisco-83110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smeden (grof-, hoef-, kagchel- en andere)" .
+<http://cedar.example.org/ns#hisco-79100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleedermakers" .
+<http://cedar.example.org/ns#hisco-75145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaarders, wolkammers" .
+<http://cedar.example.org/ns#hisco-92110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boek- en dagbladdrukkers en verkoopers, meesters, knechts, letterzetters" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grutters, kruideniers" .
+<http://cedar.example.org/ns#hisco-77630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wafel- en poffertjesbakkers" .
+<http://cedar.example.org/ns#hisco-19530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taalmeesters, translateurs" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vogelverkoopers, koolboeren" .
+<http://cedar.example.org/ns#hisco-04240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loodswezen en standvonderij (personen behoorende tot)" .
+<http://cedar.example.org/ns#hisco-61270> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren- planters" .
+<http://cedar.example.org/ns#hisco-03020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landmeters en teekenaars bij het kadaster" .
+<http://cedar.example.org/ns#hisco-56090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naaisters, breisters, mangelhoudsters, plooisters, strijkster, waschvrouwen, werksters, nettenbreijers" .
+<http://cedar.example.org/ns#hisco-33160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tol- en pontgaarders, brug- en sluiswachters" .
+<http://cedar.example.org/ns#hisco-16130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren schilders" .
+<http://cedar.example.org/ns#hisco-13100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogleeraren en leeraren aan hooge scholen, athenaea, seminarien, clinische scholen en akademien, seminarien" .
+<http://cedar.example.org/ns#hisco-92110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boek- en dagbladdrukkers knechts, letterzetters" .
+<http://cedar.example.org/ns#hisco-19310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liefdadige gestichten dienstdoend personeel" .
+<http://cedar.example.org/ns#hisco-71105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mijnwerkers" .
+<http://cedar.example.org/ns#hisco-94960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaarsenmakers, (smeer- en was-)" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gazfabrijkanten" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vogelverkoopers, kooiboeren" .
+<http://cedar.example.org/ns#hisco-49030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asch-, bagger-, vuilnislieden" .
+<http://cedar.example.org/ns#hisco-89290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krammers" .
+<http://cedar.example.org/ns#hisco-79190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breuk- en draagbanden-, keurslijvenmakers" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers, en bew van gevangenissen, scherpregters, enz" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porcelein- fabrijkanten en kooplieden" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier- en gekleurd papierhandelaars" .
+<http://cedar.example.org/ns#hisco-81945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graveurs op hout, metaal en steen, stempelsnijders" .
+<http://cedar.example.org/ns#hisco-87105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loodgieters en pompenmakers, brandspuitmakers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porcelein-fabrijkanten en kooplieden" .
+<http://cedar.example.org/ns#hisco-12310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notarissen" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koper- en blikslagers, draadvlechters, ketelappers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afbraakverkoopers" .
+<http://cedar.example.org/ns#hisco-04223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers, loodsen, gezagvoerders, stuurlieden en matrozen (koopvaardij-) schuiten-verhuurders, commissarissen van veerschepen enz." .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afbrankverkoopers" .
+<http://cedar.example.org/ns#hisco-37030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bestellers, expediteurs, factoors, voetboden" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Timmerlieden, kistenmakers" .
+<http://cedar.example.org/ns#hisco-81120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet- en schrijnwerkers, kunstdraaijers" .
+<http://cedar.example.org/ns#hisco-02230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingenieurs en verdere ambtenaren van den waterstaat" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veteranen" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borstel-, kaarden-, kammen-, rijven, zeeftenmakers" .
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruidfabrijkanten en vuurwerkmakers" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koper- klok- en geelgieters" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fabrijkanten van verschillende aard" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, daguorreotypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porcelein-kooplieden" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Protestanten, dienstdoende personen" .
+<http://cedar.example.org/ns#hisco-55240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoorsteenvegers" .
+<http://cedar.example.org/ns#hisco-57025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baardscheerders, kappers, paruikenmakers" .
+<http://cedar.example.org/ns#hisco-77120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moutmolenaars" .
+<http://cedar.example.org/ns#hisco-44320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstkoopers, muzijk- en teekenhandelaren" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Protestanten, dienstdoende personen." .
+<http://cedar.example.org/ns#hisco-44320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meesters (keur-, markt-, waag-), afslagers" .
+<http://cedar.example.org/ns#hisco-83190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smeden kagchel- en andere" .
+<http://cedar.example.org/ns#hisco-77490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vischdroogers en rookers" .
+<http://cedar.example.org/ns#hisco-13020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzers, onderwijzeressen, ondermeesters, kweekelingen, gouverneurs, gouvernanten" .
+<http://cedar.example.org/ns#hisco-17000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren tooneelspelers, dansmeesters, zangers" .
+<http://cedar.example.org/ns#hisco-77810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bierbrouwers, bierstekers" .
+<http://cedar.example.org/ns#hisco-13100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogleeraren en leeraren aan hooge scholen, athennea, seminarien, clinische scholen en akademien" .
+<http://cedar.example.org/ns#hisco-62970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolonisten bedelaars" .
+<http://cedar.example.org/ns#hisco-77490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wekkers" .
+<http://cedar.example.org/ns#hisco-59220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doodgravers, bedienaars van begrafenissen, verhuurders van rouwkleeden" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijkmeesters" .
+<http://cedar.example.org/ns#hisco-89160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brillenslijpers en verkoopers" .
+<http://cedar.example.org/ns#hisco-77660> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suiker- en pastijbakkers" .
+<http://cedar.example.org/ns#hisco-45125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleederen- en gemaaktgoedverkoopers" .
+<http://cedar.example.org/ns#hisco-92110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boek- en dagbladdrukkers en verkoopers knechts, letterzetters" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan academien, clinische scholen" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters enz." .
+<http://cedar.example.org/ns#hisco-89990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pleistergieters, boetseerders" .
+<http://cedar.example.org/ns#hisco-55220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoonmakers en lappers" .
+<http://cedar.example.org/ns#hisco-31030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schatters" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuipers, koepelmakers" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knoopenmakers" .
+<http://cedar.example.org/ns#hisco-79310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoeden-, petten- en stroohoedmakers" .
+<http://cedar.example.org/ns#hisco-96930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolenbranders" .
+<http://cedar.example.org/ns#hisco-80110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoenmakers en lappers" .
+<http://cedar.example.org/ns#hisco-59220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doodgravers, bedienaars van begrafenissen, verhuurders van rouwkleederen" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren- verkoopers" .
+<http://cedar.example.org/ns#hisco-63110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houthakkers" .
+<http://cedar.example.org/ns#hisco-17990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orgeldraaijers, straatmuzijkanten" .
+<http://cedar.example.org/ns#hisco-75625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoffenverwers, glanzers" .
+<http://cedar.example.org/ns#hisco-39340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurwaarders" .
+<http://cedar.example.org/ns#hisco-81190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Billardmakers" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Israeliten, dienstdoende personen" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tapijtfabrijkanten" .
+<http://cedar.example.org/ns#hisco-83110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smeden grof" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graanhandelaars, gistverkoopers" .
+<http://cedar.example.org/ns#hisco-79930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parapluiemakers" .
+<http://cedar.example.org/ns#hisco-92110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boek- en dagbladdrukkers en verkoopers meesters" .
+<http://cedar.example.org/ns#hisco-62930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zijdeteelt (personen behoorende tot de)" .
+<http://cedar.example.org/ns#hisco-41020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koornverschieters" .
+<http://cedar.example.org/ns#hisco-21990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rentmeesters" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen werklieden" .
+<http://cedar.example.org/ns#hisco-62970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolonisten gewone" .
+<http://cedar.example.org/ns#hisco-74220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stelzieders" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van) marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-87340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blik- en plaatwerkers, lampenmakers" .
+<http://cedar.example.org/ns#hisco-87340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blik-, en plaatwerkers, lampenmakers" .
+<http://cedar.example.org/ns#hisco-80310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handschoenen- en dassenmakers" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen werklieden/*" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Protestanten, predikanten" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kadetten van de landmagt" .
+<http://cedar.example.org/ns#hisco-58940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepswakers" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz" .
+<http://cedar.example.org/ns#hisco-75000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hennep- en vlasbereiders en teelers" .
+<http://cedar.example.org/ns#hisco-02220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouwmeesters, civiel ingenieurs" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porceleinkooplieden" .
+<http://cedar.example.org/ns#hisco-71290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalkbranders, cement- en trasmakers" .
+<http://cedar.example.org/ns#hisco-39140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magazijn- en pakhuismeesters" .
+<http://cedar.example.org/ns#hisco-80310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijtuig-, wagen-, koffer-, zadelmakers" .
+<http://cedar.example.org/ns#hisco-62430> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herders en veehoeders" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudijzer-, oude kleederen-, haanenverkoopers" .
+<http://cedar.example.org/ns#hisco-21100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bankiers, effektenhandelaars, geldwisselaars, kassiers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier- en gekleurd papierfabrijkanten" .
+<http://cedar.example.org/ns#hisco-57025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haarwerkers" .
+<http://cedar.example.org/ns#hisco-93120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schilders (huis-), glazenmakers" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Roomsch-Catholijken, pastoors en kapellaans." .
+<http://cedar.example.org/ns#hisco-87105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loodgieters en pompenmakers" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krib- en dijkwerkers, heilbazen" .
+<http://cedar.example.org/ns#hisco-81120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoelen-bekleeders, draaijers, matters" .
+<http://cedar.example.org/ns#hisco-95120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metselaars" .
+<http://cedar.example.org/ns#hisco-61290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veenlieden, turfboeren" .
+<http://cedar.example.org/ns#hisco-83320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzer- en koperdraaijers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier- en gekleurd papier- fabrijkanten" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van publieke wagens en verdere middelen van vervoer te water en te lande, postmeesters" .
+<http://cedar.example.org/ns#hisco-84222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uurwerkmakers" .
+<http://cedar.example.org/ns#hisco-45220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kramers" .
+<http://cedar.example.org/ns#hisco-18090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schermmeesters" .
+<http://cedar.example.org/ns#hisco-59220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doodgravers, bedienaars van begravenissen, verhuurders van rouwkleederen" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van),marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters enz." .
+<http://cedar.example.org/ns#hisco-12410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Solliciteurs" .
+<http://cedar.example.org/ns#hisco-13020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzers, onderwijzeressen, ondermeesters, kweekelingen, gouveneurs, gouvernanten" .
+<http://cedar.example.org/ns#hisco-44320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meesters (keur-, markt-, vraag-), afslagers" .
+<http://cedar.example.org/ns#hisco-54010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienstboden, hakers, huisbewaarders, minnen, oppassers, portiers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fabrijkanten van verschillenden aard" .
+<http://cedar.example.org/ns#hisco-54010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienstboden, bakers, huisbewaarders, minnen, oppassers, portiers" .
+<http://cedar.example.org/ns#hisco-61270> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigarenplanters" .
+<http://cedar.example.org/ns#hisco-98990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerlieden, koetsiers, loopers, postknechten en sloopers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porceleinfabrijkanten" .
+<http://cedar.example.org/ns#hisco-91025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bordpapier (werkers in) doozen-, kaartenmakers" .
+<http://cedar.example.org/ns#hisco-64990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schelpvisschers, schulpers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiegelmakers en verkoopers" .
+<http://cedar.example.org/ns#hisco-99910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lantaarnopstekers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudijzer-, oude kleederen-, beenenverkoopers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigarenfabrijkanten" .
+<http://cedar.example.org/ns#hisco-12110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Advokaten" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stijfselfabrijkanten" .
+<http://cedar.example.org/ns#hisco-79200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bontwerkers" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melk-, boter-, kaasverkoopers" .
+<http://cedar.example.org/ns#hisco-81190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Billard-, kaats-ballenmakers" .
+<http://cedar.example.org/ns#hisco-13940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschool- houders en onderwijzers" .
+<http://cedar.example.org/ns#hisco-06105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geneesheeren, heelmeesters, officieren van gezondheid, oog- en tandmeesters, vroedmeesters, vroedvrouwen enz." .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Timmerlieden, kistemakers" .
+<http://cedar.example.org/ns#hisco-94290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mattenmakers" .
+<http://cedar.example.org/ns#hisco-31000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambtenaren Niet genoemde" .
+<http://cedar.example.org/ns#hisco-93120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schilders(huis-), glazenmakers" .
+<http://cedar.example.org/ns#hisco-45220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterverkoopers" .
+<http://cedar.example.org/ns#hisco-78155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren- kervers" .
+<http://cedar.example.org/ns#hisco-02220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouwmeesters" .
+<http://cedar.example.org/ns#hisco-88090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouddraadtrekkers, passementwerkers, galonwerkers" .
+<http://cedar.example.org/ns#hisco-54010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koninklijk Huis (personen, verbonden aan het)" .
+<http://cedar.example.org/ns#hisco-03020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landmeters en teekenaars bij de kadaster" .
+<http://cedar.example.org/ns#hisco-87340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blik-, en pleetwerkers, lampenmakers" .
+<http://cedar.example.org/ns#hisco-97190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kruijers, sjouwers, schoenpoetsers" .
+<http://cedar.example.org/ns#hisco-77990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meekrapbereiders en fabrijkanten" .
+<http://cedar.example.org/ns#hisco-79690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bed- en matrassenmakers en verhuurders, behangers, stoffeerders" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, daguerrootypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-13020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzers, onderwijzeressen, ondermeesters, kweekelingen, gouverneurs,  gouvernanten" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuipers, hoepelmakers" .
+<http://cedar.example.org/ns#hisco-83915> <http://www.w3.org/2004/02/skos/core#prefLabel> "Messenmakers en slijpers" .
+<http://cedar.example.org/ns#hisco-16120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beeldhouwers, lofwerksnijders" .
+<http://cedar.example.org/ns#hisco-93120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schilders (huis), glazenmakers" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitdragers, uitventer, leurders" .
+<http://cedar.example.org/ns#hisco-75000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinners, spoelders, wevers" .
+<http://cedar.example.org/ns#hisco-89500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstlakkers" .
+<http://cedar.example.org/ns#hisco-56090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naaisters, breisters, mangelhoudsters, plooisters, strijkers, waschvrouwen, werksters, nettenbreijers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Galanteriewarenhandelaars" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meters (kolen-, koorn-, hooi-, hout-, scheeps- enz.), wijnstekers" .
+<http://cedar.example.org/ns#hisco-75220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wierspinners" .
+<http://cedar.example.org/ns#hisco-17000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren toneelspelers, dansmeesters, zangers" .
+<http://cedar.example.org/ns#hisco-12110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prokureurs" .
+<http://cedar.example.org/ns#hisco-83110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smeden hoef-" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chicoreifabrijkanten" .
+<http://cedar.example.org/ns#hisco-06610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paarden- en beestensnijders" .
+<http://cedar.example.org/ns#hisco-94240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezembinders, rietboeren, rijwerkers" .
+<http://cedar.example.org/ns#hisco-31090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambtenaren Provinciale" .
+<http://cedar.example.org/ns#hisco-74220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lijmzieders" .
+<http://cedar.example.org/ns#hisco-06510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veeartsen" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren-fabrijkanten" .
+<http://cedar.example.org/ns#hisco-97125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turf- koorn- en kolendragers" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koper- en blikslagers, draadvlechters, ketellappers" .
+<http://cedar.example.org/ns#hisco-49031> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asch-, bagger-, vuilnislieden, aschverkoopers" .
+<http://cedar.example.org/ns#hisco-42230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaakwaarnemers, commissionairs" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reeders" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen/* werklieden" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kurkensnijders" .
+<http://cedar.example.org/ns#hisco-21240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aannemers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen/* kooplieden" .
+<http://cedar.example.org/ns#hisco-58320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariniers en zeelieden van en boven den rang van aden luitenant" .
+<http://cedar.example.org/ns#hisco-31000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambtenaren Staats-" .
+<http://cedar.example.org/ns#hisco-51020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herbergiers, kasteleins, koffijhuishouders" .
+<http://cedar.example.org/ns#hisco-13940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschoolhouders en onderwijzers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kooplieden van verschillenden aard" .
+<http://cedar.example.org/ns#hisco-13020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzers, onderwijzeressen, ondermeesters, kweekelingen , gouveneurs, gouvernanten" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gepensioneerden (burgerlijke en militaire)" .
+<http://cedar.example.org/ns#hisco-36000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opzigters, conducteurs enz." .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zakkenmakers en verhuurders" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan hooge scholen, athennea" .
+<http://cedar.example.org/ns#hisco-79130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modenmaaksters" .
+<http://cedar.example.org/ns#hisco-54040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publieke vrouwen, publiekhuishouders" .
+<http://cedar.example.org/ns#hisco-78155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren-kervers" .
+<http://cedar.example.org/ns#hisco-33990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beleenbankhouders, inbrengers enz." .
+<http://cedar.example.org/ns#hisco-21100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bankiers, effectenhandelaars, geldwisselaars, kassiers" .
+<http://cedar.example.org/ns#hisco-56090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naaisters, briesters, mangelhoudsters, plooisters, strijksters, waschvrouwen, werksters, nettenbreijers" .
+<http://cedar.example.org/ns#hisco-09010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landhuishoudkundige scholen leerlingen" .
+<http://cedar.example.org/ns#hisco-44320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vendmeesters" .
+<http://cedar.example.org/ns#hisco-13940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschool-houders en onderwijzers" .
+<http://cedar.example.org/ns#hisco-76145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leerbereiders en looijers" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschool- leerlingen" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, daguerrcotypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-78155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigarenkervers" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borstel-, koorden-, kammen-, rijven-, zeeftenmakers" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huisleerlingen" .
+<http://cedar.example.org/ns#hisco-62970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolonisten arbeiders" .
+<http://cedar.example.org/ns#hisco-13100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogleeraren en leeraren aan hooge scholen, athenaea, seminarien, clinische scholen en akademien" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van naamlooze en verdere handel-maatschappijen" .
+<http://cedar.example.org/ns#hisco-44320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vendumeesters" .
+<http://cedar.example.org/ns#hisco-61240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paarden- en veehouders en verkoopers, koemelkers" .
+<http://cedar.example.org/ns#hisco-57025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baardscheerders, kappers, pruikenmakers" .
+<http://cedar.example.org/ns#hisco-13170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latijnsche scholen onderwijzers" .
+<http://cedar.example.org/ns#hisco-58940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nachtwerkers" .
+<http://cedar.example.org/ns#hisco-93920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vergulders, lijstenmakers" .
+<http://cedar.example.org/ns#hisco-79560> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borduurwerkers, kantwerkers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porcelein-fabrijkanten" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Roomsch-Catholijken, kloosterlingen, geestelijke zusters" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kopers- en blikslagers, draadvlechters, ketellappers" .
+<http://cedar.example.org/ns#hisco-73400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier- en gekleurd papierwerklieden" .
+<http://cedar.example.org/ns#hisco-43220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsleerlingen" .
+<http://cedar.example.org/ns#hisco-14120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan seminarien" .
+<http://cedar.example.org/ns#hisco-77630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brood-, kleingoed-, kook- en banketbakkers en slijters" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan hooge scholen, athenace" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porcelein- kooplieden" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier- en gekleurd papier- handelaars" .
+<http://cedar.example.org/ns#hisco-89300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pannen-, potten-, pijpen-, steen- en tegelbakkers" .
+<http://cedar.example.org/ns#hisco-87340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blik- en pleetwerkers, lampenmakers" .
+<http://cedar.example.org/ns#hisco-22290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haven- en bakenmeesters" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariniers en zeelieden beneden den rang van 2den luitenant" .
+<http://cedar.example.org/ns#hisco-83920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geschutgieters, geweermakers" .
+<http://cedar.example.org/ns#hisco-58320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krijgslieden van en boven den rang van 2den luitenant" .
+<http://cedar.example.org/ns#hisco-51050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kroeghouders, tappers enz" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen /* fabrijkanten" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleinhandelaars, winkeliers" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krijgslieden beneden den rang van aden luitenant" .
+<http://cedar.example.org/ns#hisco-03510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Werktuigkundigen en makers, balans- en brandspuitmakers" .
+<http://cedar.example.org/ns#hisco-54040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publieke vrouwen, publiekhuishoudens" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepszeilnaaldenmakers" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gepensioneerden (burgelijke en millitaire)" .
+<http://cedar.example.org/ns#hisco-12310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notarissen (kandidaat)" .
+<http://cedar.example.org/ns#hisco-44190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Makerlaars en kargadoors" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "IJkmeesters" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbeiders, daglooners" .
+<http://cedar.example.org/ns#hisco-64960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jagt (personen behoorende tot de)" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoolleerlingen" .
+<http://cedar.example.org/ns#hisco-56090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naaisters, breisters, mangelhoudsters, plooisters, strijksters, waschvrouwen, werksters, nettenbreijen" .
+<http://cedar.example.org/ns#hisco-17940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omroepers, aanplakkers" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borstel-, kaarden-, kammen-, rijven-, zeeftenmakers" .
+<http://cedar.example.org/ns#hisco-17530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstenaars, goochelaars enz." .
+<http://cedar.example.org/ns#hisco-77870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azijnstokers, kunstazijnmakers" .
+<http://cedar.example.org/ns#hisco-62970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kolonisten hulpbehoevende" .
+<http://cedar.example.org/ns#hisco-75710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Touwslagers, baanwerkers" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters enz" .
+<http://cedar.example.org/ns#hisco-79690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bed- en matrassenmakers en verhuurders, behangers, stofferders" .
+<http://cedar.example.org/ns#hisco-39340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klerken en schrijvers bij notarissen, ontvangers, prokureurs, deurwaarders enz." .
+<http://cedar.example.org/ns#hisco-06190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kweekelingen aan 's Rijks kweekschool voor militaire geneeskundigen" .
+<http://cedar.example.org/ns#hisco-61220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landbouwers" .
+<http://cedar.example.org/ns#hisco-88090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouddraadtrekkers, passementwerkers" .
+<http://cedar.example.org/ns#hisco-42230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaakwaarnemers, commissionnairs" .
+<http://cedar.example.org/ns#hisco-81120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoelen- bekleeders, draaijers, matters" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tinnegieters" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van publieke wagens en verdere  middelen van vervoer te water en te lande, postmeesters" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marcch, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-56090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naaisters, breisters, mangelhoudsters, plooisters, strijksters, waschvrouwen, werksters, nettenbreijers" .
+<http://cedar.example.org/ns#hisco-77310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Villers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenkolen-, hout- en turfverkoopers" .
+<http://cedar.example.org/ns#hisco-13020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzers, onderwijzeressen, ondermeesters, kweekelingen, gouverneurs, gouvernanten." .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chocoladefabrijkanten" .
+<http://cedar.example.org/ns#hisco-74100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loodwitmakers" .
+<http://cedar.example.org/ns#hisco-81190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Billard-, kaatsballen-makers" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitdragers, uitventers, leurders" .
+<http://cedar.example.org/ns#hisco-19420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Besteders" .
+<http://cedar.example.org/ns#hisco-51050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kroeghouders, tappers enz." .
+<http://cedar.example.org/ns#hisco-17530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstenaars, goochelaars enz" .
+<http://cedar.example.org/ns#hisco-31000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambtenaren Gemeente-" .
+<http://cedar.example.org/ns#hisco-88090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slijpers (diamant-, glas-, marmer-, metaal- enz.)" .
+<http://cedar.example.org/ns#hisco-94240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heetmaaijers" .
+<http://cedar.example.org/ns#hisco-13940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschool- houders en onderwijzers/1" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren- fabrijkanten" .
+<http://cedar.example.org/ns#hisco-64960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jagers" .
+<http://cedar.example.org/ns#hisco-59990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pikeurs" .
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheikundige voorwerpen en verfwaren (fabrijkanten en werklieden in)" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, daguerreotypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-98990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlieden, koetsiers, loopers, postknechten en sleepers" .
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheikundige voorwerpen en verfwaren (fabrikanten en werklieden in)" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-95445> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheep-, blok-, mast- en zeilmakers, rafactiemeesters, scheepsloopers, takelaars" .
+<http://cedar.example.org/ns#hisco-71220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenhouwers" .
+<http://cedar.example.org/ns#hisco-77490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inleggers van levensbehoeften" .
+<http://cedar.example.org/ns#hisco-95510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stukadoors, witters" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verschillende beroepen" .
+<http://cedar.example.org/ns#hisco-93120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schilder (huis-), glazenmakers" .
+<http://cedar.example.org/ns#hisco-97125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turf, koorn- en kolendragers" .
+<http://cedar.example.org/ns#hisco-06710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apothekers, drogisten" .
+<http://cedar.example.org/ns#hisco-79130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modemaaksters" .
+<http://cedar.example.org/ns#hisco-06510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kweekelingen aan 's Rijks veeartsenijschool" .
+<http://cedar.example.org/ns#hisco-77120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Watermolenaars" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijnhandelaars" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kadetten van de zeemagt" .
+<http://cedar.example.org/ns#hisco-95910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molenmakers" .
+<http://cedar.example.org/ns#hisco-39340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klerken en schrijvers bij notarissen, ontvangers, prokureurs, deurwaarders enz" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, dagverreotypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-94190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muzijkinstrument-, orgel-, forte pianomakers, stemmers en verkoopers" .
+<http://cedar.example.org/ns#hisco-98990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerlieden, koetsiers, loopers, postknechten en sloepers" .
+<http://cedar.example.org/ns#hisco-83590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schaarslijpers" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan hooge scholen, athenaea" .
+<http://cedar.example.org/ns#hisco-88010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Juweliers, goud- en zilversmeden" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen /* werklieden" .
+<http://cedar.example.org/ns#hisco-13145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landhuishoudkundige scholen onderwijzers" .
+<http://cedar.example.org/ns#hisco-94960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaarsenmakers (smeer- en was-)" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van openbare werken" .
+<http://cedar.example.org/ns#hisco-13100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogleeraren en leeraren aan hooge scholen, athennen, seminarien, clinische scholen en akademien" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostschoolleerlingen" .
+<http://cedar.example.org/ns#hisco-83210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vijlers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerk- en porcelein- fabrijkanten" .
+<http://cedar.example.org/ns#hisco-20110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heemraden en verdere ambtenaren van de waterschappen" .
+<http://cedar.example.org/ns#hisco-94240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezembinders, rietboeren, rijswerkers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen/* fabrijkanten" .
+<http://cedar.example.org/ns#hisco-58320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariniers en zeelieden van en boven den rang 2den luitenant" .
+<http://cedar.example.org/ns#hisco-49030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asch-, bagger-, vuilnislieden , aschverkoopers" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vischverkoopers" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kkoper-, klok- en geelgieters" .
+<http://cedar.example.org/ns#hisco-04240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loodswezen en strandvonderij (personen behoorende tot)" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meters (kolen-, koorn-, hooi-, hout-, scheeps-, enz.), wijnstekers" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, vld-en boschw, nacht-en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-19310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liefdadige gestichten dienstdoend  personeel" .
+<http://cedar.example.org/ns#hisco-98990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerlieden, koetsiers, loopers, postknechten en sleepers" .
+<http://cedar.example.org/ns#hisco-15900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dagbladschrijvers, letterkundigen" .
+<http://cedar.example.org/ns#hisco-89500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstlokkers" .
+<http://cedar.example.org/ns#hisco-20210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gezantschappen en consulaten (personen behoorende tot de)" .
+<http://cedar.example.org/ns#hisco-93960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijtuigschilders" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leerlingen aan het instituut voor blinden" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meters (kolen-, koorn-, hooi-, hout-, scheeps- enz.) wijnstekers" .
+<http://cedar.example.org/ns#hisco-07110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ziekenoppassers" .
+<http://cedar.example.org/ns#hisco-61290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijenteelt (personen behoorende tot de)" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klompenmakers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van verzekering- en brandwaarborgmaatschappijen" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garen- en bandwinkeliers" .
+<http://cedar.example.org/ns#hisco-79310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoeden-, petten- en stroohoedenmakers" .
+<http://cedar.example.org/ns#hisco-94220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mandenmakers" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, dagnerreotypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-13190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeevaartscholen onderwijzers" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marcch, vdd- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-97125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turf , koorn- en kolendragers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen kooplieden/*" .
+<http://cedar.example.org/ns#hisco-39150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meters (kolen-, koorn-, hooi-, hout-, scheeps- enz.), wijnstokers" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigaren-verkoopers" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardappelenmeelfabrijkanten" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenkolen, hout- en turfverkoopers" .
+<http://cedar.example.org/ns#hisco-77890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Branders en stokers van siroop, likeuren, sterke dranken" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van begrafenis- en ziekenfondsen" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grossiers, slijters" .
+<http://cedar.example.org/ns#hisco-16000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstoefenaren teekenaars, teekenmeesters, daguerrecotypeurs, decorateurs" .
+<http://cedar.example.org/ns#hisco-39960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spoorweg- en stoombootbeambten" .
+<http://cedar.example.org/ns#hisco-98990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerlieden, koetziers, loopers, postknechten en sleepers" .
+<http://cedar.example.org/ns#hisco-49030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voddenrapers" .
+<http://cedar.example.org/ns#hisco-91025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bordpapier (werkers in) doozen-, kaartemakers" .
+<http://cedar.example.org/ns#hisco-73240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fineerzagers" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krijgslieden beneden den rang 2den luitenant" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), marech, veld- en boschw., nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-51090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Badstoofhouders" .
+<http://cedar.example.org/ns#hisco-41040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalhouders, rijtuigverhuurders" .
+<http://cedar.example.org/ns#hisco-83110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smeden grof-" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van) , marech, veld- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen,scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemers en direkteurs van verzekering- en brandwaarborgmaatschappijen/?" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzergieters" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan hooge scholen, athenaca" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Debiteurs en gedelegeerden in de loterij" .
+<http://cedar.example.org/ns#hisco-58220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politie (dir, commiss, agenten van), march, vdd- en boschw, nacht- en torenw, geregtsdienaars, cipiers en bew van gevangenissen, scherpregters, enz." .
+<http://cedar.example.org/ns#hisco-36000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opsigters, conducteurs enz." .
+<http://cedar.example.org/ns#hisco-13100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogleeraren en leeraren aan hooge scholen, athenaca, seminarien, clinische scholen en akademien" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kraankinderen" .
+<http://cedar.example.org/ns#hisco-43220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsreizigers" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krib- en dijkwerkers, heibazen" .
+<http://cedar.example.org/ns#hisco-63290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griendbazen" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen fabrijkanten" .
+<http://cedar.example.org/ns#hisco-04224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers, loodsen, gezagvoerders, stuurlieden en matrozen (koopvaardij-), schuitenverhuurders, commissarissen van veerschepen enz." .
+<http://cedar.example.org/ns#hisco-89120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasblazers" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lettergieters" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwavelstokkenmakers en verkoopers" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schutters" .
+<http://cedar.example.org/ns#hisco-83920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwaardvegers" .
+<http://cedar.example.org/ns#hisco-74220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Traanstokers" .
+<http://cedar.example.org/ns#hisco-36000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opzigters, conducteurs enz" .
+<http://cedar.example.org/ns#hisco-77310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vleeschhouwers, spekslagers, poeliers" .
+<http://cedar.example.org/ns#hisco-73400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papier- en gekleurd papier- werklieden" .
+<http://cedar.example.org/ns#hisco-82090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plaat- en steendrukkers, plaatsnijders" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pennenbereiders" .
+<http://cedar.example.org/ns#hisco-04222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers, loodsen, gezagvoerders, stuurlieden en matrozen (koopvaardij-) schuitenverhuurders, commissarissen van veerschepen enz" .
+<http://cedar.example.org/ns#hisco-83320> <http://www.w3.org/2004/02/skos/core#prefLabel> "IJzer- en koperdraaijers" .
+<http://cedar.example.org/ns#hisco-58340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krijgslieden beneden den rang van 2den luitenant" .
+<http://cedar.example.org/ns#hisco--2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zonder beroep" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groenten-, fruitverkoopers" .
+<http://cedar.example.org/ns#hisco-95160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Straatmakers" .
+<http://cedar.example.org/ns#hisco-42230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaadwaarnemers, commissionnairs" .
+<http://cedar.example.org/ns#hisco-77890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Branders en stokers van stroop, likeuren, sterke dranken" .
+<http://cedar.example.org/ns#hisco-51020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herbergiers, kasteleins, koffijhuishoudens" .
+<http://cedar.example.org/ns#hisco-04222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers, loodsen, gezagvoerders, stuurlieden en matrozen (koopvaardij-) schuitenverhuurders, commissarissen van veerschepen enz." .
+<http://cedar.example.org/ns#hisco-04220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers, loodsen, gezagvoerders, stuurlieden en matrosen (koopvaardij-) schuitenverhuurders, commissarissen van veerschepen enz." .
+<http://cedar.example.org/ns#hisco-04215> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeevaartscholen leerlingen" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Studenten aan hooge scholen, atheneae" .
+<http://cedar.example.org/ns#hisco-22000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liefdadige gestichten hoofden" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spijkermakers" .
+<http://cedar.example.org/ns#hisco-75000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hennep- vlasbereiders en teelers" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepzeilnaaldenmakers" .
+<http://cedar.example.org/ns#hisco-74290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pik- en teerstokers" .
+<http://cedar.example.org/ns#hisco-44190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Makelaars en kargadoors" .
+<http://cedar.example.org/ns#hisco-97125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turf-, koorn- en kolendragers" .
+<http://cedar.example.org/ns#hisco-43220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelreizigers" .
+<http://cedar.example.org/ns#hisco-74470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoutzieders" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstleeraren en aan de dienst verbonden personen. Israeliten, rabbijnen" .
+<http://cedar.example.org/ns#hisco-95510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstwerkers" .
+<http://cedar.example.org/ns#hisco-77630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brood-, kleingoed-, koek- en banketbakkers en slijters" .
+<http://cedar.example.org/ns#hisco-41030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garen- en landwinkeliers" .
+<http://cedar.example.org/ns#hisco-92625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boekbinders" .
+<http://cedar.example.org/ns#hisco-95445> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheep-, blok-, maat- en zeilmakers, rafactiemeesters, scheepsloopers, takelaars" .
+<http://cedar.example.org/ns#hisco-41025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabak- en sigarenverkoopers" .
+<http://cedar.example.org/ns#hisco-58320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krijgslieden van en boven den rang van aden luitenant" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufakturen fabrijkanten/*" .
+

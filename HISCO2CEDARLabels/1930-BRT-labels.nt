@@ -1,0 +1,605 @@
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Watergasbereider" .
+<http://cedar.example.org/ns#hisco-07530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opticien" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienaar van den R. K. godsdienst" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reinigingsdienstarbeider" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "IJzervlechter" .
+<http://cedar.example.org/ns#hisco-95210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beton- en cementwerker" .
+<http://cedar.example.org/ns#hisco-72500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vormer" .
+<http://cedar.example.org/ns#hisco-92155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichtdrukker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedrijfsleiders, meesterknechts e.d." .
+<http://cedar.example.org/ns#hisco-38040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telegrafist" .
+<http://cedar.example.org/ns#hisco-81120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoelenmaker" .
+<http://cedar.example.org/ns#hisco-59220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Begrafenispersoneel" .
+<http://cedar.example.org/ns#hisco-81945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houtgraveur" .
+<http://cedar.example.org/ns#hisco-89290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pijpenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stokers" .
+<http://cedar.example.org/ns#hisco-72250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pletter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal pers. in de pos. D beh. tot het eigenl. bedr." .
+<http://cedar.example.org/ns#hisco-39340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurwaarder" .
+<http://cedar.example.org/ns#hisco-63110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houwer" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE X" .
+<http://cedar.example.org/ns#hisco-84100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technisch personeel" .
+<http://cedar.example.org/ns#hisco-04125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vliegenier" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hulparbeider" .
+<http://cedar.example.org/ns#hisco-77540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaasmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dakdekker" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draadnagelmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handlanger w.o. haringkuiper" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beton- en cementwerker" .
+<http://cedar.example.org/ns#hisco-17320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toonkunstenaar" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inspecteur, agent enz." .
+<http://cedar.example.org/ns#hisco-07310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vroedvrouw" .
+<http://cedar.example.org/ns#hisco-99999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Assistent" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wei-, ondermelk- en karnemelktapper" .
+<http://cedar.example.org/ns#hisco-92225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plaatdrukker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griendwerker" .
+<http://cedar.example.org/ns#hisco-79420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coupeur" .
+<http://cedar.example.org/ns#hisco-81275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schaver" .
+<http://cedar.example.org/ns#hisco-81955> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politoerder" .
+<http://cedar.example.org/ns#hisco-89156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glassnijder" .
+<http://cedar.example.org/ns#hisco-81225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zager" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electricien" .
+<http://cedar.example.org/ns#hisco-79920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaloeziemaker" .
+<http://cedar.example.org/ns#hisco-06310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tandarts" .
+<http://cedar.example.org/ns#hisco-53250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buffetpersoneel" .
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lijnbewerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mecanicien" .
+<http://cedar.example.org/ns#hisco-79510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Costuumnaaister" .
+<http://cedar.example.org/ns#hisco-77510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wei-, ondermelk- en karnemelktapper" .
+<http://cedar.example.org/ns#hisco-57025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haarbereider" .
+<http://cedar.example.org/ns#hisco-79510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zakkennaaier" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apothekers-assistent" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapper" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rooker, inmaker en zouter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bankwerker" .
+<http://cedar.example.org/ns#hisco-13200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeraar" .
+<http://cedar.example.org/ns#hisco-76100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huiden- en vellenbereider" .
+<http://cedar.example.org/ns#hisco-75000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Openaar en bandvormer" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienend en huispersoneel" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbeider" .
+<http://cedar.example.org/ns#hisco-79390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pettenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magazijn- en pakhuispersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Circus- en kermispersoneel" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koperslager" .
+<http://cedar.example.org/ns#hisco-62290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dorscher" .
+<http://cedar.example.org/ns#hisco-71220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mergelblokbreker" .
+<http://cedar.example.org/ns#hisco-77750> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koffiebrander" .
+<http://cedar.example.org/ns#hisco-77340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Worstmaker" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pen- en penseelwerker" .
+<http://cedar.example.org/ns#hisco-83110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smid" .
+<http://cedar.example.org/ns#hisco-13100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogleeraar" .
+<http://cedar.example.org/ns#hisco-99910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ongeschoold personeel" .
+<http://cedar.example.org/ns#hisco-77510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steriliseur, condenseur en poedermaker" .
+<http://cedar.example.org/ns#hisco-12110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Advocaat en procureur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbeider" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draaier" .
+<http://cedar.example.org/ns#hisco-07110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verplegend personeel" .
+<http://cedar.example.org/ns#hisco-55120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huisbewaarder" .
+<http://cedar.example.org/ns#hisco-53190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vischbakker" .
+<http://cedar.example.org/ns#hisco-92120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handdrukker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Badknecht" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ongeschoold personeel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huisbewaarder" .
+<http://cedar.example.org/ns#hisco-72100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalsmelter" .
+<http://cedar.example.org/ns#hisco-55290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontsmetter" .
+<http://cedar.example.org/ns#hisco-02000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingenieur" .
+<http://cedar.example.org/ns#hisco-98100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepspersoneel" .
+<http://cedar.example.org/ns#hisco-77610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biscuits- en koekbakker" .
+<http://cedar.example.org/ns#hisco-78155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabakskerver" .
+<http://cedar.example.org/ns#hisco-90100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technische rubberartikelenvervaardiger" .
+<http://cedar.example.org/ns#hisco-75690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrifugist" .
+<http://cedar.example.org/ns#hisco-14190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienaar van den Protestantschen godsdienst" .
+<http://cedar.example.org/ns#hisco-94250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoelenmatter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE XIV" .
+<http://cedar.example.org/ns#hisco-64960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jager" .
+<http://cedar.example.org/ns#hisco-12910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Juridisch personeel" .
+<http://cedar.example.org/ns#hisco-77660> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dropswerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heier" .
+<http://cedar.example.org/ns#hisco-89320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasmaker" .
+<http://cedar.example.org/ns#hisco-94170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pianomaker" .
+<http://cedar.example.org/ns#hisco-03190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afteekenaar" .
+<http://cedar.example.org/ns#hisco-97145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magazijn- en pakhuispersoneel" .
+<http://cedar.example.org/ns#hisco-83450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boorarbeider" .
+<http://cedar.example.org/ns#hisco-87462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klinker" .
+<http://cedar.example.org/ns#hisco-59990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portier" .
+<http://cedar.example.org/ns#hisco-58930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personeel gevangenissen, Rijkswerkinrichtingen, tuchtscholen en Rijksopvoedingsgestichten" .
+<http://cedar.example.org/ns#hisco-58990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schakelbordwachter" .
+<http://cedar.example.org/ns#hisco-75690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taander" .
+<http://cedar.example.org/ns#hisco-72890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakker, moffelaar en schoopeerder" .
+<http://cedar.example.org/ns#hisco-57070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Badknecht" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notaris" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koperbewerker" .
+<http://cedar.example.org/ns#hisco-79565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borduurder" .
+<http://cedar.example.org/ns#hisco-77820> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mouterijarbeider" .
+<http://cedar.example.org/ns#hisco-56040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemisch en nat wasscher" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuinman" .
+<http://cedar.example.org/ns#hisco-73400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papierbewerker" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geschoold personeel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handzetter" .
+<http://cedar.example.org/ns#hisco-57025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapper" .
+<http://cedar.example.org/ns#hisco-75635> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detacheur" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overige arbeiders" .
+<http://cedar.example.org/ns#hisco-39960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stationspersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal personen behoorende tot het eigenl. bedr." .
+<http://cedar.example.org/ns#hisco-98220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinekamerpersoneel" .
+<http://cedar.example.org/ns#hisco--2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overig personeel" .
+<http://cedar.example.org/ns#hisco-72990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afbramer" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drukker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vuurwerker" .
+<http://cedar.example.org/ns#hisco-19540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tolk, translateur" .
+<http://cedar.example.org/ns#hisco-57025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haarwerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoker" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstonderwijzer" .
+<http://cedar.example.org/ns#hisco-39520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bibliothecaris" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blikdrukker" .
+<http://cedar.example.org/ns#hisco-98500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chauffeur" .
+<http://cedar.example.org/ns#hisco-73490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartonnagewerker" .
+<http://cedar.example.org/ns#hisco-92625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boekbinder" .
+<http://cedar.example.org/ns#hisco-94990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stroohulzenmaker" .
+<http://cedar.example.org/ns#hisco-95990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bekleeder" .
+<http://cedar.example.org/ns#hisco-64920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vischkweekersknecht" .
+<http://cedar.example.org/ns#hisco-56070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strijkster" .
+<http://cedar.example.org/ns#hisco-72000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forceur" .
+<http://cedar.example.org/ns#hisco-89570> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasverzilveraar" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klompenmaker" .
+<http://cedar.example.org/ns#hisco-82000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inzetter en stamper" .
+<http://cedar.example.org/ns#hisco-81925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wagenmaker" .
+<http://cedar.example.org/ns#hisco-78120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabaksorteerder" .
+<http://cedar.example.org/ns#hisco-84410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vliegtuigmonteur" .
+<http://cedar.example.org/ns#hisco-95510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gipswerker" .
+<http://cedar.example.org/ns#hisco-16190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calligraaf" .
+<http://cedar.example.org/ns#hisco-77490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rooker, inmaker en zouter" .
+<http://cedar.example.org/ns#hisco-95410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Timmerman" .
+<http://cedar.example.org/ns#hisco-78100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabakbewerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinist" .
+<http://cedar.example.org/ns#hisco-17320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tooneelspeler" .
+<http://cedar.example.org/ns#hisco-93120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schilder" .
+<http://cedar.example.org/ns#hisco-79620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meubelstoffeerder" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chauffeurs" .
+<http://cedar.example.org/ns#hisco-77760> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cacaobrander" .
+<http://cedar.example.org/ns#hisco-56010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bleeker" .
+<http://cedar.example.org/ns#hisco-97145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magazijnpersoneel" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderhoudspersoneel van weg en werken" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE XXVI" .
+<http://cedar.example.org/ns#hisco-64930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oesterwerker" .
+<http://cedar.example.org/ns#hisco-99999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hulphouwer" .
+<http://cedar.example.org/ns#hisco-95990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepsbeschieter" .
+<http://cedar.example.org/ns#hisco-13320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzeres" .
+<http://cedar.example.org/ns#hisco-98500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerlieden" .
+<http://cedar.example.org/ns#hisco-19490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vakvereenigingspersoneel e.d." .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deurwaarder" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakker en moffelaar" .
+<http://cedar.example.org/ns#hisco-38040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marconist" .
+<http://cedar.example.org/ns#hisco-89430> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasetser" .
+<http://cedar.example.org/ns#hisco-58320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Officier" .
+<http://cedar.example.org/ns#hisco-54010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienend personeel" .
+<http://cedar.example.org/ns#hisco-72890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakker en moffelaar" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuinbouwarbeider" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienstonderwijzer" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chauffeur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal pers. in de positie D beh. tot het eigenlijke bedrijf" .
+<http://cedar.example.org/ns#hisco-19990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetenschappelijk personeel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marconist" .
+<http://cedar.example.org/ns#hisco-87340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blikslager" .
+<http://cedar.example.org/ns#hisco-39310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienend kantoorpersoneel" .
+<http://cedar.example.org/ns#hisco-55240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoorsteenveger" .
+<http://cedar.example.org/ns#hisco-87190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pijpenbuiger" .
+<http://cedar.example.org/ns#hisco-75000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mengzaal-, duivelkamer-, kraskamer-arbeider" .
+<http://cedar.example.org/ns#hisco-79390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mutsenmaakster" .
+<http://cedar.example.org/ns#hisco-73290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houtschiller" .
+<http://cedar.example.org/ns#hisco-90200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vulcaniseur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrifugist en pasteuriseur" .
+<http://cedar.example.org/ns#hisco-75990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aandraaier" .
+<http://cedar.example.org/ns#hisco-15915> <http://www.w3.org/2004/02/skos/core#prefLabel> "Journalist" .
+<http://cedar.example.org/ns#hisco-12910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rechtskundig adviseur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overig personeel" .
+<http://cedar.example.org/ns#hisco-36040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trampersoneel" .
+<http://cedar.example.org/ns#hisco-72790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draadwalser" .
+<http://cedar.example.org/ns#hisco-72000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalbewerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jager" .
+<http://cedar.example.org/ns#hisco-95475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vloerlegger" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Timmerman" .
+<http://cedar.example.org/ns#hisco-53100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koker" .
+<http://cedar.example.org/ns#hisco-81225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ornamenteur" .
+<http://cedar.example.org/ns#hisco-99910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sorteerderijarbeider" .
+<http://cedar.example.org/ns#hisco-75465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nettenboeter" .
+<http://cedar.example.org/ns#hisco-96940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bemalingspersoneel" .
+<http://cedar.example.org/ns#hisco-99910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lampenist" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerlieden" .
+<http://cedar.example.org/ns#hisco-71220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenhouwer" .
+<http://cedar.example.org/ns#hisco-16130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstschilder" .
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterreinigingsarbeider" .
+<http://cedar.example.org/ns#hisco-06810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capsulemaker" .
+<http://cedar.example.org/ns#hisco-77790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Theesorteerder" .
+<http://cedar.example.org/ns#hisco-82090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenslijper" .
+<http://cedar.example.org/ns#hisco-75220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinnerijarbeider" .
+<http://cedar.example.org/ns#hisco-79510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naaister" .
+<http://cedar.example.org/ns#hisco-95230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijzervlechter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fitter en leidingmonteur" .
+<http://cedar.example.org/ns#hisco-98330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boekbinder" .
+<http://cedar.example.org/ns#hisco-62740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuinman" .
+<http://cedar.example.org/ns#hisco-37030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brievenbesteller" .
+<http://cedar.example.org/ns#hisco-54020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huispersoneel" .
+<http://cedar.example.org/ns#hisco-72500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model- en vormmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bediende" .
+<http://cedar.example.org/ns#hisco-95690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breeuwer" .
+<http://cedar.example.org/ns#hisco-17990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Variete-artist" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Accountant" .
+<http://cedar.example.org/ns#hisco-95960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duiker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loopknecht en besteller" .
+<http://cedar.example.org/ns#hisco-36000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conducteur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redactiepersoneel" .
+<http://cedar.example.org/ns#hisco-03110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teekenaar" .
+<http://cedar.example.org/ns#hisco-84100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mecanicien" .
+<http://cedar.example.org/ns#hisco-93920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decorateur" .
+<http://cedar.example.org/ns#hisco-53100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kok" .
+<http://cedar.example.org/ns#hisco-79510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lingerienaaister" .
+<http://cedar.example.org/ns#hisco-62970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veenarbeider" .
+<http://cedar.example.org/ns#hisco-89930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleibewerker" .
+<http://cedar.example.org/ns#hisco-96930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stokerijpersoneel" .
+<http://cedar.example.org/ns#hisco-64100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zee- en kustvisscher" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personeel" .
+<http://cedar.example.org/ns#hisco-95190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voeger" .
+<http://cedar.example.org/ns#hisco-75500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breier" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sjouwer en transportarbeider" .
+<http://cedar.example.org/ns#hisco-77410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hakker en koker" .
+<http://cedar.example.org/ns#hisco-95160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Straatmaker" .
+<http://cedar.example.org/ns#hisco-71190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pompmachinist" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE XXIII" .
+<http://cedar.example.org/ns#hisco-14190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienaar van den R. K. godsdienst" .
+<http://cedar.example.org/ns#hisco-81945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graveur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Candidaat-notaris" .
+<http://cedar.example.org/ns#hisco-81120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meubelmaker" .
+<http://cedar.example.org/ns#hisco-79990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lampekappenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Administratief personeel" .
+<http://cedar.example.org/ns#hisco-17590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Circus- en kermispersoneel" .
+<http://cedar.example.org/ns#hisco-75452> <http://www.w3.org/2004/02/skos/core#prefLabel> "Passementwerker" .
+<http://cedar.example.org/ns#hisco-02120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Architect" .
+<http://cedar.example.org/ns#hisco-06105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geneeskundige" .
+<http://cedar.example.org/ns#hisco-83520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slijper" .
+<http://cedar.example.org/ns#hisco-77630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Banket- en koekbakker" .
+<http://cedar.example.org/ns#hisco-93920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakker" .
+<http://cedar.example.org/ns#hisco-56030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opmaker" .
+<http://cedar.example.org/ns#hisco-89200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardewerkmaker" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baggerpersoneel" .
+<http://cedar.example.org/ns#hisco-06510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veearts" .
+<http://cedar.example.org/ns#hisco-77840> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gistwerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schelpenvisscher" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koper- en blikslager" .
+<http://cedar.example.org/ns#hisco-81190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ivoordraaier" .
+<http://cedar.example.org/ns#hisco-56010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waschknecht" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienend personeel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE V" .
+<http://cedar.example.org/ns#hisco-45190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garageknecht" .
+<http://cedar.example.org/ns#hisco-77790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koffieverlezer" .
+<http://cedar.example.org/ns#hisco-77120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molenbaas" .
+<http://cedar.example.org/ns#hisco-98190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bagger- en scheepspersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal pers. in de pos. D beh. tot het eigenlijke bedrijf" .
+<http://cedar.example.org/ns#hisco-36000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Treinpersoneel" .
+<http://cedar.example.org/ns#hisco-77940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speetster" .
+<http://cedar.example.org/ns#hisco-92120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handzetter" .
+<http://cedar.example.org/ns#hisco-98930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluis- en havenpersoneel" .
+<http://cedar.example.org/ns#hisco-85920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meterbeproever" .
+<http://cedar.example.org/ns#hisco-77490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conservatiearbeider" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buffet- en keukenpersoneel" .
+<http://cedar.example.org/ns#hisco-33160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tolpersoneel" .
+<http://cedar.example.org/ns#hisco-63290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griendwerker" .
+<http://cedar.example.org/ns#hisco-94230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kwastenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handlanger" .
+<http://cedar.example.org/ns#hisco-79930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parapluiemaker" .
+<http://cedar.example.org/ns#hisco-83190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vuurwerker" .
+<http://cedar.example.org/ns#hisco-31090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reclasseringspersoneel" .
+<http://cedar.example.org/ns#hisco-87210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lasscher" .
+<http://cedar.example.org/ns#hisco-84222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horloge- en uurwerkmaker" .
+<http://cedar.example.org/ns#hisco-92130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinezetter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinezetter" .
+<http://cedar.example.org/ns#hisco-77790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cacaomaler" .
+<http://cedar.example.org/ns#hisco-92330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Galvanoplastiekarbeider" .
+<http://cedar.example.org/ns#hisco-91075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plakkerijarbeider" .
+<http://cedar.example.org/ns#hisco-95420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Encadreur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kellner" .
+<http://cedar.example.org/ns#hisco-94290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mattenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal personen niet behoorende tot het eigenlijke bedrijf" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluis- en havenpersoneel" .
+<http://cedar.example.org/ns#hisco-62720> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuinbouwarbeider" .
+<http://cedar.example.org/ns#hisco-75720> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koordvlechter" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nageljongen" .
+<http://cedar.example.org/ns#hisco-98550> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melkontvanger" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brouwer" .
+<http://cedar.example.org/ns#hisco-72000> <http://www.w3.org/2004/02/skos/core#prefLabel> "IJzerwerker" .
+<http://cedar.example.org/ns#hisco-74990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ernstvuurwerkmaker" .
+<http://cedar.example.org/ns#hisco-37090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telegrambesteller" .
+<http://cedar.example.org/ns#hisco-14990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkpersoneel" .
+<http://cedar.example.org/ns#hisco-79190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corsettenmaker" .
+<http://cedar.example.org/ns#hisco-94980> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melkcontroleur" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Staaldraadkabelmaker" .
+<http://cedar.example.org/ns#hisco-78200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sigarenmaker" .
+<http://cedar.example.org/ns#hisco-75000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlasarbeider" .
+<http://cedar.example.org/ns#hisco-92250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steendrukker" .
+<http://cedar.example.org/ns#hisco-87340> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blikbewerker (machinale)" .
+<http://cedar.example.org/ns#hisco-55220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reinigingsdienstarbeider" .
+<http://cedar.example.org/ns#hisco-89120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasbuiger" .
+<http://cedar.example.org/ns#hisco-87310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plaatwerker" .
+<http://cedar.example.org/ns#hisco-95140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenzetter" .
+<http://cedar.example.org/ns#hisco-76100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lederbewerker" .
+<http://cedar.example.org/ns#hisco-77250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suikerkoker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melkontvanger" .
+<http://cedar.example.org/ns#hisco-82000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steenzager" .
+<http://cedar.example.org/ns#hisco-16310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reproductie fotograaf" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkpersoneel" .
+<http://cedar.example.org/ns#hisco-53190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keukenpersoneel" .
+<http://cedar.example.org/ns#hisco-98300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Locomotiefpersoneel" .
+<http://cedar.example.org/ns#hisco-21110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedrijfshoofden" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetenschappelijk personeel" .
+<http://cedar.example.org/ns#hisco-94290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mattenvlechter" .
+<http://cedar.example.org/ns#hisco-75635> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wolwasscher" .
+<http://cedar.example.org/ns#hisco-79500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Confectiefabrieksarbeider" .
+<http://cedar.example.org/ns#hisco-84100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drijfriemenmaker" .
+<http://cedar.example.org/ns#hisco-75615> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bleekerijarbeider" .
+<http://cedar.example.org/ns#hisco-63290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontginningsarbeider" .
+<http://cedar.example.org/ns#hisco-95975> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zandstraalblazer" .
+<http://cedar.example.org/ns#hisco-93130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepsschilder" .
+<http://cedar.example.org/ns#hisco-75710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Touwslager" .
+<http://cedar.example.org/ns#hisco-58110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brandweerpersoneel" .
+<http://cedar.example.org/ns#hisco-17350> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voordrachtkunstenaar" .
+<http://cedar.example.org/ns#hisco-75290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spoeler" .
+<http://cedar.example.org/ns#hisco-94190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Snarenmaker" .
+<http://cedar.example.org/ns#hisco-81230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draaier" .
+<http://cedar.example.org/ns#hisco-95455> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepstimmerman" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Platengieter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal personen niet beh. tot het eigenl. bedrijf" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klinknagelmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbeider schoenfabrieken" .
+<http://cedar.example.org/ns#hisco-94220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mandenmaker" .
+<http://cedar.example.org/ns#hisco-95510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stucadoor" .
+<http://cedar.example.org/ns#hisco-94100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muziekinstrumentmaker" .
+<http://cedar.example.org/ns#hisco-63230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boscharbeider" .
+<http://cedar.example.org/ns#hisco-59990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bioscooppersoneel" .
+<http://cedar.example.org/ns#hisco-77290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dragewerker" .
+<http://cedar.example.org/ns#hisco-92110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drukker" .
+<http://cedar.example.org/ns#hisco-72100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ertsmenger" .
+<http://cedar.example.org/ns#hisco-16150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etser" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huispersoneel" .
+<http://cedar.example.org/ns#hisco-95750> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glas in loodzetter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wagenmaker" .
+<http://cedar.example.org/ns#hisco-71150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schietmeester" .
+<http://cedar.example.org/ns#hisco-45220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kramer" .
+<http://cedar.example.org/ns#hisco-92730> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontwikkelaar" .
+<http://cedar.example.org/ns#hisco-20110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lid Hooge Colleges van Staat, enz." .
+<http://cedar.example.org/ns#hisco-79690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedden- en matrassenmaker" .
+<http://cedar.example.org/ns#hisco-38000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefonist" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lettergieter" .
+<http://cedar.example.org/ns#hisco-98990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trekker" .
+<http://cedar.example.org/ns#hisco-43200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vertegenwoordiger" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Winkelbediende" .
+<http://cedar.example.org/ns#hisco-56065> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perser" .
+<http://cedar.example.org/ns#hisco-75452> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kantwerker" .
+<http://cedar.example.org/ns#hisco-04217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schippers" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conservatiearbeider" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melkcontroleur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Locomotiefpersoneel" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderhoudspersoneel van rollend materieel" .
+<http://cedar.example.org/ns#hisco-95925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Behanger" .
+<http://cedar.example.org/ns#hisco-97440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heier" .
+<http://cedar.example.org/ns#hisco-72100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zinkhersmelter" .
+<http://cedar.example.org/ns#hisco-99910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lompenbewerker (kunstwolmalerij)" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geschoold personeel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeilmaker" .
+<http://cedar.example.org/ns#hisco-62400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalknecht" .
+<http://cedar.example.org/ns#hisco-72100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zinkovenarbeider" .
+<http://cedar.example.org/ns#hisco-91075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zakkenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal bedrijfsleiders, meesterknechts e.d." .
+<http://cedar.example.org/ns#hisco-89550> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glaceerder" .
+<http://cedar.example.org/ns#hisco-79990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloemenmaakster" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinekamerpersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leeraar" .
+<http://cedar.example.org/ns#hisco-53210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kellner" .
+<http://cedar.example.org/ns#hisco-07990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Masseur, heilgymnastieker en magnetiseur" .
+<http://cedar.example.org/ns#hisco-97390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuiger" .
+<http://cedar.example.org/ns#hisco-72725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabel- en geisoleerd draadmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lid Hooge Colleges van Staat, enz." .
+<http://cedar.example.org/ns#hisco-53190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groenten- en vruchtenschoonmaker" .
+<http://cedar.example.org/ns#hisco-99900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hulpvakarbeider" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technisch personeel" .
+<http://cedar.example.org/ns#hisco-95230> <http://www.w3.org/2004/02/skos/core#prefLabel> "IJzervlechter" .
+<http://cedar.example.org/ns#hisco-89500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasbrander en glasschilder" .
+<http://cedar.example.org/ns#hisco-72830> <http://www.w3.org/2004/02/skos/core#prefLabel> "Galvaniseur" .
+<http://cedar.example.org/ns#hisco-14190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienaar van den Israelitischen godsdienst" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afslager e.d." .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE XXII" .
+<http://cedar.example.org/ns#hisco-98320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Locomotiefmachinist (ondergrondsch)" .
+<http://cedar.example.org/ns#hisco-75145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wolkammer" .
+<http://cedar.example.org/ns#hisco-81930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuiper" .
+<http://cedar.example.org/ns#hisco-08250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actuaris" .
+<http://cedar.example.org/ns#hisco-79540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bontnaaister" .
+<http://cedar.example.org/ns#hisco-75622> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ververijarbeider" .
+<http://cedar.example.org/ns#hisco-19190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conserveerder" .
+<http://cedar.example.org/ns#hisco-11010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Accountant" .
+<http://cedar.example.org/ns#hisco-77310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slager" .
+<http://cedar.example.org/ns#hisco-56060> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinestrijkster" .
+<http://cedar.example.org/ns#hisco-79310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoedenmodiste" .
+<http://cedar.example.org/ns#hisco-81290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schorsmaler" .
+<http://cedar.example.org/ns#hisco-81990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoepelmaker" .
+<http://cedar.example.org/ns#hisco-62920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijproductenverwerker" .
+<http://cedar.example.org/ns#hisco-54020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienend en huispersoneel" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spijkermaker" .
+<http://cedar.example.org/ns#hisco-64990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schelpenvisscher" .
+<http://cedar.example.org/ns#hisco-95000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Appreteur" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Straatmaker" .
+<http://cedar.example.org/ns#hisco-75435> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gobelinwever" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "TOTAAL BEDRIJFSKLASSE XV" .
+<http://cedar.example.org/ns#hisco-16310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotograaf" .
+<http://cedar.example.org/ns#hisco-53190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buffet- en keukenpersoneel" .
+<http://cedar.example.org/ns#hisco-89360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ovenstoker" .
+<http://cedar.example.org/ns#hisco-96910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ophaalmachinist" .
+<http://cedar.example.org/ns#hisco-06810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apothekers-assistent" .
+<http://cedar.example.org/ns#hisco-72100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eerste smelter" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaadteler" .
+<http://cedar.example.org/ns#hisco-72725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draadtrekker" .
+<http://cedar.example.org/ns#hisco-17145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korist" .
+<http://cedar.example.org/ns#hisco-75422> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kettingscheerder" .
+<http://cedar.example.org/ns#hisco-77650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chocolademaler" .
+<http://cedar.example.org/ns#hisco-94250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rietmeubelmaker" .
+<http://cedar.example.org/ns#hisco-77650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chocoladewerker" .
+<http://cedar.example.org/ns#hisco-54010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bediende" .
+<http://cedar.example.org/ns#hisco-12310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Candidaat-notaris" .
+<http://cedar.example.org/ns#hisco-78990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ringer" .
+<http://cedar.example.org/ns#hisco-98620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koetsier" .
+<http://cedar.example.org/ns#hisco-62210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landbouwarbeider" .
+<http://cedar.example.org/ns#hisco-83450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boorder" .
+<http://cedar.example.org/ns#hisco-98620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerman" .
+<http://cedar.example.org/ns#hisco-75145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hekelaar" .
+<http://cedar.example.org/ns#hisco-62730> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaadteler" .
+<http://cedar.example.org/ns#hisco-32220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ponser" .
+<http://cedar.example.org/ns#hisco-79200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bontwerker" .
+<http://cedar.example.org/ns#hisco-44120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expert" .
+<http://cedar.example.org/ns#hisco-54035> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderbewaarplaatspersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reiziger, agent enz." .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grofbankwerker" .
+<http://cedar.example.org/ns#hisco-62730> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boomkweekersknecht" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dorscher" .
+<http://cedar.example.org/ns#hisco-81000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houtbewerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepspersoneel" .
+<http://cedar.example.org/ns#hisco-37040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Looper" .
+<http://cedar.example.org/ns#hisco-79920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vloerzeilmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet te rangschikken beroepen" .
+<http://cedar.example.org/ns#hisco-17120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Componist" .
+<http://cedar.example.org/ns#hisco-78290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sigarensorteerder" .
+<http://cedar.example.org/ns#hisco-56065> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalanderaar" .
+<http://cedar.example.org/ns#hisco-77530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botermaker" .
+<http://cedar.example.org/ns#hisco-72555> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kernmaker" .
+<http://cedar.example.org/ns#hisco-94180> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pianostemmer" .
+<http://cedar.example.org/ns#hisco-89220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modelmaker" .
+<http://cedar.example.org/ns#hisco-04217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sleeper" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinisten" .
+<http://cedar.example.org/ns#hisco-75290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spoeler en twijner" .
+<http://cedar.example.org/ns#hisco-16120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beeldhouwer" .
+<http://cedar.example.org/ns#hisco-72890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoopeerder" .
+<http://cedar.example.org/ns#hisco-84190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pompboorder" .
+<http://cedar.example.org/ns#hisco-64130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oester- en mosselvisscher" .
+<http://cedar.example.org/ns#hisco-71160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stutter" .
+<http://cedar.example.org/ns#hisco-31020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Financie- en belastingpersoneel" .
+<http://cedar.example.org/ns#hisco-13320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzer" .
+<http://cedar.example.org/ns#hisco-79565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borduurster" .
+<http://cedar.example.org/ns#hisco-94230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Borstelmaker" .
+<http://cedar.example.org/ns#hisco-45130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Winkelbediende" .
+<http://cedar.example.org/ns#hisco-72890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emailleerder" .
+<http://cedar.example.org/ns#hisco-94100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vioolmaker" .
+<http://cedar.example.org/ns#hisco-79920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeilmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dekpersoneel" .
+<http://cedar.example.org/ns#hisco-73290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kurkenmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stokerijpersoneel" .
+<http://cedar.example.org/ns#hisco-98620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wagenvoerder-conducteur" .
+<http://cedar.example.org/ns#hisco-75220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinner" .
+<http://cedar.example.org/ns#hisco-85510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electricien" .
+<http://cedar.example.org/ns#hisco-55220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuiveraar" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlasarbeider" .
+<http://cedar.example.org/ns#hisco-75990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gordijnnaaister" .
+<http://cedar.example.org/ns#hisco-74140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meleerder" .
+<http://cedar.example.org/ns#hisco-95690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pekker" .
+<http://cedar.example.org/ns#hisco-87330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koperwerker" .
+<http://cedar.example.org/ns#hisco-75922> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bandagist" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderhoudspersoneel van rollend materiaal" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voerman" .
+<http://cedar.example.org/ns#hisco-89164> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glasslijper" .
+<http://cedar.example.org/ns#hisco-31000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gezant, consul, enz." .
+<http://cedar.example.org/ns#hisco-94930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linoleummaker" .
+<http://cedar.example.org/ns#hisco-98690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheepsjager" .
+<http://cedar.example.org/ns#hisco-90200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijwiel- en autobandenmaker" .
+<http://cedar.example.org/ns#hisco-81920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carrosseriemaker" .
+<http://cedar.example.org/ns#hisco-95440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blok- en mastmaker" .
+<http://cedar.example.org/ns#hisco-93920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vergulder" .
+<http://cedar.example.org/ns#hisco-88060> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zilverdraaier" .
+<http://cedar.example.org/ns#hisco-92110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zetter-drukker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telegrafist" .
+<http://cedar.example.org/ns#hisco-95475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parketvloerenlegger" .
+<http://cedar.example.org/ns#hisco-75400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wever" .
+<http://cedar.example.org/ns#hisco-84990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fraiser" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kok" .
+<http://cedar.example.org/ns#hisco-79620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoffeerder" .
+<http://cedar.example.org/ns#hisco-92220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinedrukker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botermaker" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouten- en moerenmaker" .
+<http://cedar.example.org/ns#hisco-63290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijswerker" .
+<http://cedar.example.org/ns#hisco-83220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vijlenkapper" .
+<http://cedar.example.org/ns#hisco-88050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goud- en zilversmid en reparateur" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaalgieter" .
+<http://cedar.example.org/ns#hisco-58940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bewakings- en beveiligingspersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reiziger" .
+<http://cedar.example.org/ns#hisco-87350> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ketelmaker" .
+<http://cedar.example.org/ns#hisco-99999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Werktuigbediende" .
+<http://cedar.example.org/ns#hisco-97415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grondwerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mandenmaker" .
+<http://cedar.example.org/ns#hisco-79560> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstnaaldwerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hand-schoenmaker" .
+<http://cedar.example.org/ns#hisco-94240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bezembinder" .
+<http://cedar.example.org/ns#hisco-92415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lithograaf" .
+<http://cedar.example.org/ns#hisco-77390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Darmenbewerker" .
+<http://cedar.example.org/ns#hisco-84250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tandtechniker" .
+<http://cedar.example.org/ns#hisco-72320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ovenpersoneel" .
+<http://cedar.example.org/ns#hisco-84100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Montage-arbeider" .
+<http://cedar.example.org/ns#hisco-75220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haspelarijarbeider" .
+<http://cedar.example.org/ns#hisco-15915> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redactiepersoneel" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedrijfshoofden" .
+<http://cedar.example.org/ns#hisco-03020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landmeter" .
+<http://cedar.example.org/ns#hisco-99910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handlanger" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Banket- en koekbakker" .
+<http://cedar.example.org/ns#hisco-83450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boormeester" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal der bedrijfsgroep" .
+<http://cedar.example.org/ns#hisco-94160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orgelmaker" .
+<http://cedar.example.org/ns#hisco-59220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Begraafplaatspersoneel" .
+<http://cedar.example.org/ns#hisco-95945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slooper" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verplegend personeel" .
+<http://cedar.example.org/ns#hisco-78330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sigarettenmaker" .
+<http://cedar.example.org/ns#hisco-72420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gieter" .
+<http://cedar.example.org/ns#hisco-95300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dakdekker" .
+<http://cedar.example.org/ns#hisco-92155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stereotypeur" .
+<http://cedar.example.org/ns#hisco-13390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muziekonderwijzer" .
+<http://cedar.example.org/ns#hisco-79590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dekenmaker" .
+<http://cedar.example.org/ns#hisco-14190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedienaar van een anderen godsdienst" .
+<http://cedar.example.org/ns#hisco-72630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harder" .
+<http://cedar.example.org/ns#hisco-64130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoetwatervisscher" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blok- en mastmaker" .
+<http://cedar.example.org/ns#hisco-17230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Danser" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garageknecht" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veearts" .
+<http://cedar.example.org/ns#hisco-83990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naalden- en speldenmaker" .
+<http://cedar.example.org/ns#hisco-95120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metselaar" .
+<http://cedar.example.org/ns#hisco-16130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beeldenschilder" .
+<http://cedar.example.org/ns#hisco-87120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pijpenmonteur" .
+<http://cedar.example.org/ns#hisco-63110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houthakker" .
+<http://cedar.example.org/ns#hisco-77630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Banketbakker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstschilder en etser" .
+<http://cedar.example.org/ns#hisco-75490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sterker" .
+<http://cedar.example.org/ns#hisco-83210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grofbankwerker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opperman en bouwvaksjouwer" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal personen behoorende tot het eigenlijke bedrijf" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totaal bedrijfshoofden" .
+<http://cedar.example.org/ns#hisco-12310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notaris" .
+<http://cedar.example.org/ns#hisco-85345> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wikkelaar" .
+<http://cedar.example.org/ns#hisco-17145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opera- en concertzanger" .
+<http://cedar.example.org/ns#hisco-79310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoedenmaker" .
+<http://cedar.example.org/ns#hisco-82090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schuurder" .
+<http://cedar.example.org/ns#hisco-81000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handhoutbewerker" .
+<http://cedar.example.org/ns#hisco-78100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabakstripper" .
+<http://cedar.example.org/ns#hisco-83210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bankwerker" .
+<http://cedar.example.org/ns#hisco-98320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Machinist" .
+<http://cedar.example.org/ns#hisco-04217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jachtschipper" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magazijnpersoneel" .
+<http://cedar.example.org/ns#hisco-43220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reiziger" .
+<http://cedar.example.org/ns#hisco-72725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draadvlechter" .
+<http://cedar.example.org/ns#hisco-75990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tapijtknooper" .
+<http://cedar.example.org/ns#hisco-96910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drukregelaar" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telegrambesteller" .
+<http://cedar.example.org/ns#hisco-79510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Behangersnaaister" .
+<http://cedar.example.org/ns#hisco-80310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koffermaker" .
+<http://cedar.example.org/ns#hisco-84230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instrumentmaker" .
+<http://cedar.example.org/ns#hisco--1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Banketbakker" .
+<http://cedar.example.org/ns#hisco-77810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brouwer" .
+<http://cedar.example.org/ns#hisco-71105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mijnwerker" .
+<http://cedar.example.org/ns#hisco-56070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plisseerster" .
+<http://cedar.example.org/ns#hisco-95300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dekpersoneel" .
+<http://cedar.example.org/ns#hisco-77460> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rooker" .
+
